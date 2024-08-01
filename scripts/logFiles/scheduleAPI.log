@@ -1,0 +1,268 @@
+/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:88
+for(i = 0; i < data.search_results.length; i++){
+               ^
+
+ReferenceError: data is not defined
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:88:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.18.0
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lapT.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/tAPI.js:84:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lapT.json'
+}
+
+Node.js v18.18.0
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/Parsehub.py", line 10, in <module>
+    from dotenv import dotenv_values
+ModuleNotFoundError: No module named 'dotenv'
+Error occurred: 402 Client Error: Payment Required for url: https://api.bluecartapi.com/request?api_key=F416ED92D840422DBE072AAE919B95ED&type=search&search_term=fridge&output=json
+Error reading the JSON file: [Error: ENOENT: no such file or directory, open '../json_files/BestBuy.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../json_files/BestBuy.json'
+}
+Connected to MySQL database
+/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:88
+for(i = 0; i < data.search_results.length; i++){
+               ^
+
+ReferenceError: data is not defined
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:88:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.18.0
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lapT.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/tAPI.js:84:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lapT.json'
+}
+
+Node.js v18.18.0
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/Parsehub.py", line 10, in <module>
+    from dotenv import dotenv_values
+ModuleNotFoundError: No module named 'dotenv'
+Error occurred: 402 Client Error: Payment Required for url: https://api.bluecartapi.com/request?api_key=F416ED92D840422DBE072AAE919B95ED&type=search&search_term=fridge&output=json
+Error reading the JSON file: [Error: ENOENT: no such file or directory, open '../json_files/BestBuy.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../json_files/BestBuy.json'
+}
+Connected to MySQL database
+HERE!
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lap.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:65:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lap.json'
+}
+
+Node.js v18.18.0
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lapT.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/tAPI.js:61:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lapT.json'
+}
+
+Node.js v18.18.0
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/Parsehub.py", line 10, in <module>
+    from dotenv import dotenv_values
+ModuleNotFoundError: No module named 'dotenv'
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/bluecartAPI.py", line 49, in <module>
+    with open("../json_files/bluecart_output.json", "w") as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: '../json_files/bluecart_output.json'
+Error reading the JSON file: [Error: ENOENT: no such file or directory, open '../json_files/BestBuy.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../json_files/BestBuy.json'
+}
+Connected to MySQL database
+HERE!
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lap.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:65:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lap.json'
+}
+
+Node.js v18.18.0
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lapT.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/tAPI.js:61:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lapT.json'
+}
+
+Node.js v18.18.0
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/Parsehub.py", line 10, in <module>
+    from dotenv import dotenv_values
+ModuleNotFoundError: No module named 'dotenv'
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/bluecartAPI.py", line 49, in <module>
+    with open("../json_files/bluecart_output.json", "w") as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: '../json_files/bluecart_output.json'
+Error reading the JSON file: [Error: ENOENT: no such file or directory, open '../json_files/BestBuy.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../json_files/BestBuy.json'
+}
+Connected to MySQL database
+HERE!
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lap.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/wmAPI.js:65:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lap.json'
+}
+
+Node.js v18.18.0
+node:internal/fs/utils:350
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '../json_files/lapT.json'
+    at Object.openSync (node:fs:603:3)
+    at Object.readFileSync (node:fs:471:35)
+    at Object.<anonymous> (/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/tAPI.js:61:15)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+    at node:internal/main/run_main_module:23:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '../json_files/lapT.json'
+}
+
+Node.js v18.18.0
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/Parsehub.py", line 10, in <module>
+    from dotenv import dotenv_values
+ModuleNotFoundError: No module named 'dotenv'
+Traceback (most recent call last):
+  File "/home/workspace/Software-Engineering-Project-Course/scripts/api_scripts/bluecartAPI.py", line 49, in <module>
+    with open("../json_files/bluecart_output.json", "w") as outfile:
+FileNotFoundError: [Errno 2] No such file or directory: '../json_files/bluecart_output.json'
+Error reading the JSON file: [Error: ENOENT: no such file or directory, open '../json_files/BestBuy.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../json_files/BestBuy.json'
+}
+Connected to MySQL database

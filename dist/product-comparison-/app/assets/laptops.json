@@ -1,0 +1,3242 @@
+{
+    "request_info": {
+      "success": true,
+      "credits_used": 6,
+      "credits_remaining": 94,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "search_term": "laptop",
+      "type": "search",
+      "output": "json"
+    },
+    "request_metadata": {
+      "created_at": "2023-09-21T21:36:09.569Z",
+      "processed_at": "2023-09-21T21:36:28.357Z",
+      "total_time_taken": 18.79,
+      "walmart_url": "https://www.walmart.com/search?q=laptop"
+    },
+    "search_results": [
+      {
+        "position": 1,
+        "product": {
+          "title": "Lenovo Ideapad 3i Chromebook, 15.6\" FHD, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Arctic Grey, 82N4002HUS",
+          "link": "https://www.walmart.com/ip/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS/951435754",
+          "item_id": "951435754",
+          "product_id": "50XKB9WYBP5K",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS_45580b26-c7cd-4af2-96fe-4512140037c0.965a3f54d834794a7e6f23ebd3ec1dfd.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS_45580b26-c7cd-4af2-96fe-4512140037c0.965a3f54d834794a7e6f23ebd3ec1dfd.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.3,
+          "ratings_total": 65,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 229,
+            "currency_symbol": "$",
+            "id": "4A49C75A197847108D76F8DB3E1116A8",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 2,
+        "product": {
+          "title": "HP 14\" FHD Laptop Computer, AMD Ryzen 3-3250, 4GB RAM, 128GB SSD, Silver, Windows 11 (S mode), 14-fq0110wm",
+          "link": "https://www.walmart.com/ip/HP-14-FHD-Laptop-Computer-AMD-Ryzen-3-3250-4GB-RAM-128GB-SSD-Silver-Windows-11-S-mode-14-fq0110wm/270583648?athbdg=L1103",
+          "item_id": "270583648",
+          "product_id": "7H8UU4XE2U91",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-14-FHD-Laptop-Computer-AMD-Ryzen-3-3250-4GB-RAM-128GB-SSD-Silver-Windows-11-S-mode-14-fq0110wm_c033a8e6-dc8d-4091-a46a-f77a1064b2a1.e5a472f5ae55644a87bfc0721926c9b6.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-14-FHD-Laptop-Computer-AMD-Ryzen-3-3250-4GB-RAM-128GB-SSD-Silver-Windows-11-S-mode-14-fq0110wm_c033a8e6-dc8d-4091-a46a-f77a1064b2a1.e5a472f5ae55644a87bfc0721926c9b6.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.1,
+          "ratings_total": 273,
+          "best_seller": true,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 239,
+            "currency_symbol": "$",
+            "id": "D80FB056220243119A1FA08DCC2025F5",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 3,
+        "product": {
+          "title": "SGIN 15.6inch Laptop 4GB DDR4 128GB SSD Windows 11 Laptop Computer with 4 Core Intel Celeron up to 2.8GHz Full HD 1920x1080 Laptops Computer",
+          "link": "https://www.walmart.com/ip/SGIN-15-6inch-Laptop-4GB-DDR4-128GB-SSD-Windows-11-Laptop-Computer-with-4-Core-Intel-Celeron-up-to-2-8GHz-Full-HD-1920x1080-Laptops-Computer/1044996074?athbdg=L1700",
+          "item_id": "1044996074",
+          "product_id": "6ZH8MYU670HY",
+          "images": [
+            "https://i5.walmartimages.com/seo/SGIN-15-6inch-Laptop-4GB-DDR4-128GB-SSD-Windows-11-Laptop-Computer-with-4-Core-Intel-Celeron-up-to-2-8GHz-Full-HD-1920x1080-Laptops-Computer_5ef57c1c-eb19-4975-a8f5-468530ca131a.2237d30635f2d0b3ab76518bf69ccb2d.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/SGIN-15-6inch-Laptop-4GB-DDR4-128GB-SSD-Windows-11-Laptop-Computer-with-4-Core-Intel-Celeron-up-to-2-8GHz-Full-HD-1920x1080-Laptops-Computer_5ef57c1c-eb19-4975-a8f5-468530ca131a.2237d30635f2d0b3ab76518bf69ccb2d.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.6,
+          "ratings_total": 2563,
+          "best_seller": true,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 259.99,
+            "currency_symbol": "$",
+            "id": "41D405DB72A945DD855B3D4B19133811",
+            "list_price": 1049.99,
+            "savings_amount": 790,
+            "seller": {
+              "name": "SGIN Official Store",
+              "id": "91549E334AE7410E952E6D038DF9C862"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 4,
+        "product": {
+          "title": "SGIN 15.6inch Laptop 12GB DDR4 512GB SSD Windows 11 Laptop Computer with Intel Celeron N5095A up to 2.9GHz Full HD 1920x1080 Laptops Computer",
+          "link": "https://www.walmart.com/ip/SGIN-15-6inch-Laptop-12GB-DDR4-512GB-SSD-Windows-11-Laptop-Computer-with-Intel-Celeron-N5095A-up-to-2-9GHz-Full-HD-1920x1080-Laptops-Computer/1168617951",
+          "item_id": "1168617951",
+          "product_id": "2JMB89HN0DPJ",
+          "images": [
+            "https://i5.walmartimages.com/seo/SGIN-15-6inch-Laptop-12GB-DDR4-512GB-SSD-Windows-11-Laptop-Computer-with-Intel-Celeron-N5095A-up-to-2-9GHz-Full-HD-1920x1080-Laptops-Computer_2d710c49-73bd-44be-a135-3090382188c5.9fce7500f5ebca3a989fa0f3d0bc6d54.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/SGIN-15-6inch-Laptop-12GB-DDR4-512GB-SSD-Windows-11-Laptop-Computer-with-Intel-Celeron-N5095A-up-to-2-9GHz-Full-HD-1920x1080-Laptops-Computer_2d710c49-73bd-44be-a135-3090382188c5.9fce7500f5ebca3a989fa0f3d0bc6d54.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.6,
+          "ratings_total": 1578,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 359.99,
+            "currency_symbol": "$",
+            "id": "5693145F2CAE48A4B855449470192797",
+            "list_price": 1333.99,
+            "savings_amount": 974,
+            "seller": {
+              "name": "SGIN Official Store",
+              "id": "91549E334AE7410E952E6D038DF9C862"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 5,
+        "product": {
+          "title": "HP Stream 14\" Laptop, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC, Pink, Windows 11 (S mode) with Office 365 1-yr, 14-cf2112wm",
+          "link": "https://www.walmart.com/ip/HP-Stream-14-Laptop-Intel-Celeron-N4020-Processor-4GB-RAM-64GB-eMMC-Pink-Windows-11-S-mode-with-Office-365-1-yr-14-cf2112wm/443153637?athbdg=L1600",
+          "description": "Hewlett Packard Hp Stream 14\" Cel 4/64 W/ M365 Sub",
+          "item_id": "443153637",
+          "product_id": "2IOQVBMJIJSX",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-Stream-14-Laptop-Intel-Celeron-N4020-Processor-4GB-RAM-64GB-eMMC-Pink-Windows-11-S-mode-with-Office-365-1-yr-14-cf2112wm_75f0c469-99df-47f0-9978-ebc32936a959.ec1b436bee290f22fe27861df0d7a947.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-Stream-14-Laptop-Intel-Celeron-N4020-Processor-4GB-RAM-64GB-eMMC-Pink-Windows-11-S-mode-with-Office-365-1-yr-14-cf2112wm_75f0c469-99df-47f0-9978-ebc32936a959.ec1b436bee290f22fe27861df0d7a947.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 3.8,
+          "ratings_total": 2272,
+          "best_seller": true,
+          "variants": [
+            {
+              "item_id": "166773164",
+              "product_id": "3I95VCSQQPY8",
+              "title": "Blue",
+              "image": "https://i5.walmartimages.com/asr/44c40854-5c07-4a00-9c7d-5ccbae4887db.90105a2811c2a2d6284c34a371e03175.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-Stream-14-Laptop-Intel-Celeron-N4120-4GB-RAM-64GB-eMMC-Blue-Windows-11-S-mode-with-Office-365-1-yr-14-cf2111wm/166773164?variantFieldId=actual_color"
+            },
+            {
+              "item_id": "443153637",
+              "product_id": "121VEFM85UC6",
+              "title": "Pink",
+              "image": "https://i5.walmartimages.com/asr/75f0c469-99df-47f0-9978-ebc32936a959.ec1b436bee290f22fe27861df0d7a947.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-Stream-14-Laptop-Intel-Celeron-N4020-Processor-4GB-RAM-64GB-eMMC-Pink-Windows-11-S-mode-with-Office-365-1-yr-14-cf2112wm/443153637?variantFieldId=actual_color"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 229.95,
+            "currency_symbol": "$",
+            "id": "FA5107A38DDE402D8255A7009F0F0AE6",
+            "seller": {
+              "name": "Endear Distributors",
+              "id": "0E5BD0050D9042F69B4B7514E9ABE28D"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 6,
+        "product": {
+          "title": "SGIN 15.6inch Laptop 4GB DDR4 128GB SSD Windows 11 Laptop Computer with 4 Core Intel Celeron up to 2.8GHz Full HD 1920x1080 Laptops Computer",
+          "link": "https://www.walmart.com/ip/SGIN-15-6inch-Laptop-4GB-DDR4-128GB-SSD-Windows-11-Laptop-Computer-with-4-Core-Intel-Celeron-up-to-2-8GHz-Full-HD-1920x1080-Laptops-Computer/1044996074?athbdg=L1700",
+          "description": "<li>FHD IPS Screen: With a 15.6\" Full HD IPS display (1920 x 1080), the Laptops has richer and more vibrant colors for excellent visual effects. 80% screen-to-body ratio, 16:9 aspect ratio and four</li>",
+          "item_id": "1044996074",
+          "product_id": "6ZH8MYU670HY",
+          "images": [
+            "https://i5.walmartimages.com/asr/5ef57c1c-eb19-4975-a8f5-468530ca131a.2237d30635f2d0b3ab76518bf69ccb2d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/5ef57c1c-eb19-4975-a8f5-468530ca131a.2237d30635f2d0b3ab76518bf69ccb2d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.6,
+          "ratings_total": 2563,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 259.99,
+            "currency_symbol": "$",
+            "id": "41D405DB72A945DD855B3D4B19133811",
+            "list_price": 1049.99,
+            "savings_amount": 790,
+            "seller": {
+              "name": "SGIN Official Store",
+              "id": "91549E334AE7410E952E6D038DF9C862"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 7,
+        "product": {
+          "title": "HP 15.6\" Laptop, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Spruce Blue, Windows 11 Home in S mode, 15-dy2792wm",
+          "link": "https://www.walmart.com/ip/HP-15-6-Laptop-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Spruce-Blue-Windows-11-Home-in-S-mode-15-dy2792wm/2195027585?athbdg=L1200",
+          "description": "Product Details: Manufacturer: HP Series: Model: 15-dy2792wm Screen Size: 15.6\" Touchscreen: NO Processor: i3-1115G4 Speed: 1.7GHz RAM: 8GB Solid State Drive: 256GB Operating System: Windows 11 Home",
+          "item_id": "2195027585",
+          "product_id": "1JZYOD5SP6A3",
+          "images": [
+            "https://i5.walmartimages.com/asr/b50a8d55-1791-451e-ad93-c3221fe44e70.9003f0187e1d293c1a86c3dc90944451.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/b50a8d55-1791-451e-ad93-c3221fe44e70.9003f0187e1d293c1a86c3dc90944451.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.5,
+          "ratings_total": 302,
+          "popular_pick": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 299,
+            "currency_symbol": "$",
+            "id": "69EA8BA3B3F64F52B8F94723DD1383C3",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 8,
+        "product": {
+          "title": "Lenovo Ideapad 1i, 14.0\" Laptop, Intel Pentium N5030, 4GB RAM, 128GB eMMC Storage, Cloud Grey, Windows 11 in S Mode with Office 365 1-yr, 82V6001DUS",
+          "link": "https://www.walmart.com/ip/Lenovo-Ideapad-1i-14-0-Laptop-Intel-Pentium-N5030-4GB-RAM-128GB-eMMC-Storage-Cloud-Grey-Windows-11-in-S-Mode-with-Office-365-1-yr-82V6001DUS/218677627",
+          "description": "Merchandise",
+          "item_id": "218677627",
+          "product_id": "4HPXTWOSMSJ9",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-Ideapad-1i-14-0-Laptop-Intel-Pentium-N5030-4GB-RAM-128GB-eMMC-Storage-Cloud-Grey-Windows-11-in-S-Mode-with-Office-365-1-yr-82V6001DUS_9ef0e7e7-607f-40f0-a47a-37a754da92dc.7f5be0d865f6efc0542a357ad57de7f2.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-Ideapad-1i-14-0-Laptop-Intel-Pentium-N5030-4GB-RAM-128GB-eMMC-Storage-Cloud-Grey-Windows-11-in-S-Mode-with-Office-365-1-yr-82V6001DUS_9ef0e7e7-607f-40f0-a47a-37a754da92dc.7f5be0d865f6efc0542a357ad57de7f2.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 3.9,
+          "ratings_total": 965
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 191.99,
+            "currency_symbol": "$",
+            "id": "3BE7ACCA9CF743878D35E9CB6905ABD7",
+            "seller": {
+              "name": "RAPID RABBIT LLC",
+              "id": "33644C44C4134D55B8F56A7A94F69511"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 9,
+        "product": {
+          "title": "Acer Chromebook 315, 15.6\" HD, Intel Celeron N4000, 4GB RAM, 64GB eMMC, Silver, CB315-3H-C19A",
+          "link": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A/826255173",
+          "description": "Merchandise",
+          "item_id": "826255173",
+          "product_id": "703UCMX73C2P",
+          "images": [
+            "https://i5.walmartimages.com/seo/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A_05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A_05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.2,
+          "ratings_total": 1047,
+          "variants": [
+            {
+              "item_id": "826255173",
+              "product_id": "48IMX4W4SPY9",
+              "title": "64 GB",
+              "image": "https://i5.walmartimages.com/asr/05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A/826255173?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "678545989",
+              "product_id": "6EBT204K8LXF",
+              "title": "128 GB",
+              "image": "https://i5.walmartimages.com/asr/05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-128GB-eMMC-Silver-CB315-3H-C0VT/678545989?variantFieldId=hard_drive_capacity"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 199,
+            "currency_symbol": "$",
+            "id": "9D22CA4615774FD181638174388657AA",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 10,
+        "product": {
+          "title": "HP 14\" FHD Laptop Computer, AMD Ryzen 3-3250, 4GB RAM, 128GB SSD, Silver, Windows 11 (S mode), 14-fq0110wm",
+          "link": "https://www.walmart.com/ip/HP-14-FHD-Laptop-Computer-AMD-Ryzen-3-3250-4GB-RAM-128GB-SSD-Silver-Windows-11-S-mode-14-fq0110wm/270583648?athbdg=L1103",
+          "description": "Hewlett Packard Hp 14\" Fhd R3 4/128",
+          "item_id": "270583648",
+          "product_id": "7H8UU4XE2U91",
+          "images": [
+            "https://i5.walmartimages.com/asr/c033a8e6-dc8d-4091-a46a-f77a1064b2a1.e5a472f5ae55644a87bfc0721926c9b6.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/c033a8e6-dc8d-4091-a46a-f77a1064b2a1.e5a472f5ae55644a87bfc0721926c9b6.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.1,
+          "ratings_total": 273,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 239,
+            "currency_symbol": "$",
+            "id": "D80FB056220243119A1FA08DCC2025F5",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 11,
+        "product": {
+          "title": "Samsung Chromebook 4, 11.6\" HD, Intel Celeron N4020, 4GB RAM, 64GB eMMC, Platinum Titan, Wi-Fi 5",
+          "link": "https://www.walmart.com/ip/Samsung-Chromebook-4-11-6-HD-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Platinum-Titan-Wi-Fi-5/2324096262?athbdg=L1102",
+          "item_id": "2324096262",
+          "product_id": "4GCGX4GVGENS",
+          "images": [
+            "https://i5.walmartimages.com/seo/Samsung-Chromebook-4-11-6-HD-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Platinum-Titan-Wi-Fi-5_25f80107-8854-4246-a608-dfc56748a61c.ff6ab0490adb4cc567c90db55b9fd22a.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Samsung-Chromebook-4-11-6-HD-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Platinum-Titan-Wi-Fi-5_25f80107-8854-4246-a608-dfc56748a61c.ff6ab0490adb4cc567c90db55b9fd22a.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.1,
+          "ratings_total": 122,
+          "best_seller": true,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 159,
+            "currency_symbol": "$",
+            "id": "3CD3C84055004785AFE145BDDB4B3854",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 12,
+        "product": {
+          "title": "ASUS Vivobook 15.6” FHD PC Laptop, Intel i3-N305, 8GB, 256GB, Windows 11, Green Grey, E1504GA-WS34",
+          "link": "https://www.walmart.com/ip/ASUS-Vivobook-15-6-FHD-PC-Laptop-Intel-i3-N305-8GB-256GB-Windows-11-Green-Grey-E1504GA-WS34/1273537870",
+          "item_id": "1273537870",
+          "product_id": "66FA29E3GF8O",
+          "images": [
+            "https://i5.walmartimages.com/seo/ASUS-Vivobook-15-6-FHD-PC-Laptop-Intel-i3-N305-8GB-256GB-Windows-11-Green-Grey-E1504GA-WS34_a523959b-74fc-4b3b-9c59-95ab7681b6a1.737dee4c916dcbae1858ad384f731bea.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/ASUS-Vivobook-15-6-FHD-PC-Laptop-Intel-i3-N305-8GB-256GB-Windows-11-Green-Grey-E1504GA-WS34_a523959b-74fc-4b3b-9c59-95ab7681b6a1.737dee4c916dcbae1858ad384f731bea.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.5,
+          "ratings_total": 115,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 339,
+            "currency_symbol": "$",
+            "id": "FC0140950C094F91BAE289847F2E6EDD",
+            "list_price": 379,
+            "savings_amount": 40,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 13,
+        "product": {
+          "title": "ASUS 15.6\" FHD Laptop, Intel Pentium, 4GB RAM, 128GB eMMC, Windows 11 Home in S mode with One Year of Microsoft 365 included,  L510MA-WS21",
+          "link": "https://www.walmart.com/ip/ASUS-15-6-FHD-Laptop-Intel-Pentium-4GB-RAM-128GB-eMMC-Windows-11-Home-in-S-mode-with-One-Year-of-Microsoft-365-included-L510MA-WS21/297174175?athbdg=L1102",
+          "description": "Asus 15\" Fhd Pent 4/128 W/office Sub",
+          "item_id": "297174175",
+          "product_id": "794CLC0JH0JL",
+          "images": [
+            "https://i5.walmartimages.com/seo/ASUS-15-6-FHD-Laptop-Intel-Pentium-4GB-RAM-128GB-eMMC-Windows-11-Home-in-S-mode-with-One-Year-of-Microsoft-365-included-L510MA-WS21_36541007-5c82-4cd3-a138-5417cdb0caf6.c2b0f3ad92c8e589fff12204e7cea397.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/ASUS-15-6-FHD-Laptop-Intel-Pentium-4GB-RAM-128GB-eMMC-Windows-11-Home-in-S-mode-with-One-Year-of-Microsoft-365-included-L510MA-WS21_36541007-5c82-4cd3-a138-5417cdb0caf6.c2b0f3ad92c8e589fff12204e7cea397.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4,
+          "ratings_total": 464,
+          "best_seller": true,
+          "variants": [
+            {
+              "item_id": "779214712",
+              "product_id": "5VWRE9QO769T",
+              "title": "Intel Celeron",
+              "image": "https://i5.walmartimages.com/asr/36541007-5c82-4cd3-a138-5417cdb0caf6.c2b0f3ad92c8e589fff12204e7cea397.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/ASUS-15-6-FHD-Laptop-Intel-Celeron-4GB-RAM-128GB-eMMC-Windows-11-Home-in-S-mode-with-One-Year-of-Microsoft-365-included-L510MA-WS05/779214712?variantFieldId=processor_type"
+            },
+            {
+              "item_id": "297174175",
+              "product_id": "2UUW27VF2A68",
+              "title": "Intel Pentium",
+              "image": "https://i5.walmartimages.com/asr/36541007-5c82-4cd3-a138-5417cdb0caf6.c2b0f3ad92c8e589fff12204e7cea397.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/ASUS-15-6-FHD-Laptop-Intel-Pentium-4GB-RAM-128GB-eMMC-Windows-11-Home-in-S-mode-with-One-Year-of-Microsoft-365-included-L510MA-WS21/297174175?variantFieldId=processor_type"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 199,
+            "currency_symbol": "$",
+            "id": "8F1E46D7659A42BB8F04D85FA8992E54",
+            "list_price": 249,
+            "savings_amount": 50,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 14,
+        "product": {
+          "title": "HP 15.6\" FHD Laptop, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Silver, Windows 10, 15-dy2131wm",
+          "link": "https://www.walmart.com/ip/HP-15-6-FHD-Laptop-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Silver-Windows-10-15-dy2131wm/415745945?athbdg=L1102",
+          "description": "HP 15\" FHD I3 8/256",
+          "item_id": "415745945",
+          "product_id": "5N8DOW2886BM",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-15-6-FHD-Laptop-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Silver-Windows-10-15-dy2131wm_86d74bfc-605d-4210-94a7-4233c789891d.7058090a780c83da1b0d8d0f46540b50.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-15-6-FHD-Laptop-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Silver-Windows-10-15-dy2131wm_86d74bfc-605d-4210-94a7-4233c789891d.7058090a780c83da1b0d8d0f46540b50.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.1,
+          "ratings_total": 913,
+          "best_seller": true,
+          "variants": [
+            {
+              "item_id": "415745945",
+              "product_id": "6R4P0NY17JCX",
+              "title": "Non-Touch",
+              "image": "https://i5.walmartimages.com/asr/86d74bfc-605d-4210-94a7-4233c789891d.7058090a780c83da1b0d8d0f46540b50.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-15-6-FHD-Laptop-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Silver-Windows-10-15-dy2131wm/415745945?variantFieldId=edition"
+            },
+            {
+              "item_id": "214651464",
+              "product_id": "5FVC8DI9EQJT",
+              "title": "Touch",
+              "image": "https://i5.walmartimages.com/asr/fbc266ec-42ba-4825-9371-1bca642d0059.df310ae6a136493731c2bbf806b9c083.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-15-6-FHD-Touch-Intel-Core-i3-1115G4-8GB-RAM-256GB-SSD-Silver-Windows-10-S-mode-15-dy2132wm/214651464?variantFieldId=edition"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 319,
+            "currency_symbol": "$",
+            "id": "A5B1590A68B74A819DB643CAD2EE7444",
+            "list_price": 375.95,
+            "savings_amount": 56.94999999999999,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 15,
+        "product": {
+          "title": "SGIN 15.6inch Laptop 12GB DDR4 512GB SSD Windows 11 Laptop Computer with Intel Celeron N5095A up to 2.9GHz Full HD 1920x1080 Laptops Computer",
+          "link": "https://www.walmart.com/ip/SGIN-15-6inch-Laptop-12GB-DDR4-512GB-SSD-Windows-11-Laptop-Computer-with-Intel-Celeron-N5095A-up-to-2-9GHz-Full-HD-1920x1080-Laptops-Computer/1168617951",
+          "description": "<li>FHD IPS Screen: With a 15.6\" Full HD IPS display (1920 x 1080), the Laptops has richer and more vibrant colors for excellent visual effects. 80% screen-to-body ratio, 16:9 aspect ratio and four</li>",
+          "item_id": "1168617951",
+          "product_id": "2JMB89HN0DPJ",
+          "images": [
+            "https://i5.walmartimages.com/asr/2d710c49-73bd-44be-a135-3090382188c5.9fce7500f5ebca3a989fa0f3d0bc6d54.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/2d710c49-73bd-44be-a135-3090382188c5.9fce7500f5ebca3a989fa0f3d0bc6d54.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.6,
+          "ratings_total": 1578
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 359.99,
+            "currency_symbol": "$",
+            "id": "5693145F2CAE48A4B855449470192797",
+            "list_price": 1333.99,
+            "savings_amount": 974,
+            "seller": {
+              "name": "SGIN Official Store",
+              "id": "91549E334AE7410E952E6D038DF9C862"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 16,
+        "product": {
+          "title": "CHUWI HeroBook Pro 14.1\" Laptop,256GB SSD 8G RAM,Intel Gemini-Lake N4020 Quad Core Processor,Windows 11 Bussiness Notebook Computer PC,IPS Screen,Ultra-Thin",
+          "link": "https://www.walmart.com/ip/CHUWI-HeroBook-Pro-14-1-Laptop-256GB-SSD-8G-RAM-Intel-Gemini-Lake-N4020-Quad-Core-Processor-Windows-11-Bussiness-Notebook-Computer-PC-IPS-Screen-Ultr/657509680?athbdg=L1600",
+          "description": "CPU ModelCeleronWireless Communication TechnologyWi-FiOperating SystemWindows, Windows 10BrandCHUWIItem Weight2.95 PoundsCPU ManufacturerIntelHuman Interface InputKeyboardProcessor Count4Hard Disk",
+          "item_id": "657509680",
+          "product_id": "16EJ41JMIHPB",
+          "images": [
+            "https://i5.walmartimages.com/asr/19511870-ffa2-4c2d-b78e-d9b4f9d09152.e5347a5bcb111df96d7d59b4efbaec2d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/19511870-ffa2-4c2d-b78e-d9b4f9d09152.e5347a5bcb111df96d7d59b4efbaec2d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.7,
+          "ratings_total": 346,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 205,
+            "currency_symbol": "$",
+            "id": "D3B59BD454D647D193C9CFD0C1D342F4",
+            "seller": {
+              "name": "ZHI GU",
+              "id": "332646B2AB1A4F80BF0AA9759AA1F062"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 17,
+        "product": {
+          "title": "Gateway 14.1\" Ultra Slim Notebook, FHD, Intel® Core™ i5-1135G7, Quad Core, Intel® Iris® Xe Graphics, 16GB RAM, 512GB SSD, Tuned by THX™, Fingerprint Scanner, 1MP Webcam, HDMI, Windows 10 Home",
+          "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/911423355",
+          "description": "<li>Windows 10 Home</li><li>11th Gen Intel Core i5-1135G7 Processor (2.40 GHz, Up to 4.20 GHz, 8M Cache)</li><li>Intel Iris Xe Graphics</li><li>14.1 LCD IPS FHD Display, (1920 x 1080), Edge-to-Edge</li>",
+          "item_id": "911423355",
+          "product_id": "37MVJ5TAVV2T",
+          "images": [
+            "https://i5.walmartimages.com/seo/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI_13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI_13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 3.8,
+          "ratings_total": 756,
+          "variants": [
+            {
+              "item_id": "654399212",
+              "product_id": "6KC97GWI2PNR",
+              "title": "Black",
+              "image": "https://i5.walmartimages.com/asr/13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/654399212?variantFieldId=actual_color"
+            },
+            {
+              "item_id": "911423355",
+              "product_id": "35BY0H948LAG",
+              "title": "Blue",
+              "image": "https://i5.walmartimages.com/asr/13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/911423355?variantFieldId=actual_color"
+            },
+            {
+              "item_id": "645865244",
+              "product_id": "1UPEW7H6B9ZX",
+              "title": "Gold",
+              "image": "https://i5.walmartimages.com/asr/43eb3eee-819a-42cd-835b-b55bb59f249e.2890b98140fe647fc3f18d766cdd1b02.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-512GB-SSD-16GB-RAM-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/645865244?variantFieldId=actual_color"
+            },
+            {
+              "item_id": "317234230",
+              "product_id": "3U1ZA4D7B7HG",
+              "title": "Green",
+              "image": "https://i5.walmartimages.com/asr/13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/317234230?variantFieldId=actual_color"
+            },
+            {
+              "item_id": "982087215",
+              "product_id": "6SNIRUC8FRMP",
+              "title": "Silver",
+              "image": "https://i5.walmartimages.com/asr/13fb728a-0164-4fb9-8d22-7b058468b919.69713e3448dbfadcc2c880ed3d015274.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Gateway-14-1-Ultra-Slim-Notebook-FHD-Intel-Core-i5-1135G7-Quad-Core-Iris-Xe-Graphics-16GB-RAM-512GB-SSD-Tuned-THX-Fingerprint-Scanner-1MP-Webcam-HDMI/982087215?variantFieldId=actual_color"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 386.77,
+            "currency_symbol": "$",
+            "id": "0622A0BB45E34F5BB2070F98E9745474",
+            "seller": {
+              "name": "Hooray Store",
+              "id": "5130C222B4814EF080910CAECC4D6A9A"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 18,
+        "product": {
+          "title": "Dell Chromebook 3120 11.6\" Celeron N2840 2GB RAM 16GB SSD Laptop (3VK89) (Scratch & Dent)",
+          "link": "https://www.walmart.com/ip/Dell-Chromebook-3120-11-6-Celeron-N2840-2GB-RAM-16GB-SSD-Laptop-3VK89-Scratch-Dent/633126698",
+          "description": "<li>* Dell Chromebooks have been Tested, and Factory Reset to original specifications. Good overall condition with visible wear, scratches, or scruffs and dents on the front/back panels.</li><li>100%</li>",
+          "item_id": "633126698",
+          "product_id": "5UVD7LD7GFKY",
+          "images": [
+            "https://i5.walmartimages.com/asr/3cc9f77a-4413-4b84-9af9-4485859bdd30.f0115b10254380676f341e8cdcb4cdaa.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/3cc9f77a-4413-4b84-9af9-4485859bdd30.f0115b10254380676f341e8cdcb4cdaa.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.7,
+          "ratings_total": 313
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 40,
+            "currency_symbol": "$",
+            "id": "D9E8D8DB258C493996416E19A926A625",
+            "seller": {
+              "name": "Supreme Deals",
+              "id": "24FA272EAD8D45B68E41A79899916AA4"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 19,
+        "product": {
+          "title": "Acer Aspire 3 15.6\" FHD Laptop, Intel Core i3-1115G4, 4GB DDR4, 128GB NVMe SSD, Silver, Windows 11 Home in S Mode, A315-58-33XS",
+          "link": "https://www.walmart.com/ip/Acer-Aspire-3-15-6-FHD-Laptop-Intel-Core-i3-1115G4-4GB-DDR4-128GB-NVMe-SSD-Silver-Windows-11-Home-in-S-Mode-A315-58-33XS/371556667",
+          "description": "Acer Aspire 3 15\" Fhd I3 4/128",
+          "item_id": "371556667",
+          "product_id": "1TO2C5L49OQA",
+          "images": [
+            "https://i5.walmartimages.com/asr/0265a171-0c11-4041-b00a-fba3f07ae8c9.949ff2c032bcdec0058698c77b04aa98.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/0265a171-0c11-4041-b00a-fba3f07ae8c9.949ff2c032bcdec0058698c77b04aa98.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.5,
+          "ratings_total": 147
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 249,
+            "currency_symbol": "$",
+            "id": "8DFF47A99CDA487B99E2B62CD16F2396",
+            "list_price": 299,
+            "savings_amount": 50,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 20,
+        "product": {
+          "title": "15.6\" KUU Laptop Intel Celeron N5095, 16GB RAM, 512GB SSD, Win 11 Pro, Backlit Keyboard, Wifi & Bluetooth",
+          "link": "https://www.walmart.com/ip/15-6-KUU-Laptop-Intel-Celeron-N5095-16GB-RAM-512GB-SSD-Win-11-Pro-Backlit-Keyboard-Wifi-Bluetooth/1057434650?athbdg=L1900",
+          "description": "<li>Windows 11 Pro</li><li>Intel Celeron Processor N5095(4M Cache, up to 2.90 GHz)</li><li>Intel UHD Graphics</li><li>15.6inch IPS FHD Display, (1920 x 1080)</li><li>Fingerprint unlock</li>",
+          "item_id": "1057434650",
+          "product_id": "5W9T9UOQW874",
+          "images": [
+            "https://i5.walmartimages.com/asr/c7bd1af3-c103-4d73-a9fd-5835fe0ff76a.d11041860b24a9e288796b8c2dcdce1a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/c7bd1af3-c103-4d73-a9fd-5835fe0ff76a.d11041860b24a9e288796b8c2dcdce1a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.8,
+          "ratings_total": 1383,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 319,
+            "currency_symbol": "$",
+            "id": "C2619D9FBA8041118F903A40D3ED3BBC",
+            "list_price": 429,
+            "savings_amount": 110,
+            "seller": {
+              "name": "KUU TECH",
+              "id": "8FF2E3195AA24F0C80CE185DC6C3DB62"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 21,
+        "product": {
+          "title": "Acer Chromebook 315, 15.6\" HD, Intel Celeron N4000, 4GB RAM, 64GB eMMC, Silver, CB315-3H-C19A",
+          "link": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A/826255173",
+          "item_id": "826255173",
+          "product_id": "48IMX4W4SPY9",
+          "images": [
+            "https://i5.walmartimages.com/seo/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A_05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Acer-Chromebook-315-15-6-HD-Intel-Celeron-N4000-4GB-RAM-64GB-eMMC-Silver-CB315-3H-C19A_05373b67-c03b-4ca1-9dfc-a7e42b4dce5b.f9cfbfc82be7b9bcdac035f2897e80d4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.2,
+          "ratings_total": 1047,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 199,
+            "currency_symbol": "$",
+            "id": "9D22CA4615774FD181638174388657AA",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 22,
+        "product": {
+          "title": "Lenovo Ideapad Duet 5 Chromebook, 13.3\" FHD OLED Touchscreen, Qualcomm Snapdragon SC7180, 4GB RAM, 128GB SSD, Abyss Blue, 82QS0001US",
+          "link": "https://www.walmart.com/ip/Lenovo-Ideapad-Duet-5-Chromebook-13-3-FHD-OLED-Touchscreen-Qualcomm-Snapdragon-SC7180-4GB-RAM-128GB-SSD-Abyss-Blue-82QS0001US/360068686",
+          "item_id": "360068686",
+          "product_id": "7IM172BLKDWI",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-Ideapad-Duet-5-Chromebook-13-3-FHD-OLED-Touchscreen-Qualcomm-Snapdragon-SC7180-4GB-RAM-128GB-SSD-Abyss-Blue-82QS0001US_c4ebd92c-c177-4cef-a33f-91013fcd22ef.208b114a39e85e72e1b7adadf09f4b0b.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-Ideapad-Duet-5-Chromebook-13-3-FHD-OLED-Touchscreen-Qualcomm-Snapdragon-SC7180-4GB-RAM-128GB-SSD-Abyss-Blue-82QS0001US_c4ebd92c-c177-4cef-a33f-91013fcd22ef.208b114a39e85e72e1b7adadf09f4b0b.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.5,
+          "ratings_total": 334,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 369,
+            "currency_symbol": "$",
+            "id": "99C3BAEEE719451BBF531D23AED18C31",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 23,
+        "product": {
+          "title": "Dell Latitude 5580 HD 15.6 Inch Business Laptop Notebook PC (Intel Core i5-6300U, 8GB Ram, 256GB SSD, WiFi, HDMI, Type C Port) Win 10 Pro with Numeric Keyboard (Reused)",
+          "link": "https://www.walmart.com/ip/Dell-Latitude-5580-HD-15-6-Inch-Business-Laptop-Notebook-PC-Intel-Core-i5-6300U-8GB-Ram-256GB-SSD-WiFi-HDMI-Type-C-Port-Win-10-Pro-Numeric-Keyboard-R/795675201",
+          "description": "Designed for productivity, the Latitude 5490 Notebook from Dell provides improved security, manageability, and reliability, as well as business features6th Gen Intel Core i5 Processor i5-6200U",
+          "item_id": "795675201",
+          "product_id": "7FQ2TOJ2SCKH",
+          "images": [
+            "https://i5.walmartimages.com/asr/044bd6f9-7547-403b-80c1-e29eabf6996e.920baa914fb41cf3bc7ed56358034e49.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/044bd6f9-7547-403b-80c1-e29eabf6996e.920baa914fb41cf3bc7ed56358034e49.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.8,
+          "ratings_total": 4
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 199.99,
+            "currency_symbol": "$",
+            "id": "9D927DCC51604B82835F3F342D0D4F2F",
+            "seller": {
+              "name": "Zoom",
+              "id": "AC805836EA6348CBA71D69D5E1DDFA11"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 24,
+        "product": {
+          "title": "Lenovo Ideapad 3i 14\" FHD Laptop, Intel Core i3-1115G4, 4GB, 128GB SSD, Windows 11 in S Mode, Platinum Grey, 81X700FGUS",
+          "link": "https://www.walmart.com/ip/Lenovo-Ideapad-3i-14-FHD-Laptop-Intel-Core-i3-1115G4-4GB-128GB-SSD-Windows-11-in-S-Mode-Platinum-Grey-81X700FGUS/125496557?athbdg=L1102",
+          "description": "LNV IP3 I3 4GB 128GB",
+          "item_id": "125496557",
+          "product_id": "1M85TBWKATCH",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-14-FHD-Laptop-Intel-Core-i3-1115G4-4GB-128GB-SSD-Windows-11-in-S-Mode-Platinum-Grey-81X700FGUS_338fe743-c6bb-450e-9c55-0dc5874ba162.631e4778d4e1476a8774f5639644e13e.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-14-FHD-Laptop-Intel-Core-i3-1115G4-4GB-128GB-SSD-Windows-11-in-S-Mode-Platinum-Grey-81X700FGUS_338fe743-c6bb-450e-9c55-0dc5874ba162.631e4778d4e1476a8774f5639644e13e.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.5,
+          "ratings_total": 6713,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 229,
+            "currency_symbol": "$",
+            "id": "C389DBA37D464B21AE6631E73CBE27DF",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 25,
+        "product": {
+          "title": "Newest HP Laptop, 15.6\" diagonal HD Display, Intel Pentium Silver N5000, 16GB RAM, 1TB SSD, Intel UHD Graphics, Bluetooth 4.2, Wi-Fi, Windows 10 Home S Mode, Cefesfy Accessories",
+          "link": "https://www.walmart.com/ip/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-16GB-RAM-1TB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesfy/2010376887",
+          "description": "<li>4GB DDR4 SDRAM Memory, 128GB Solid State Drive.</li><li>Intel Quad-Core Pentium Silver N5000 (Base Clock 1.1GHz, Max Boost Clock Up to 2.7GHz, 4MB Cache, 4 Threads) and Integrated Intel UHD</li>",
+          "item_id": "2010376887",
+          "product_id": "5PCVWG7OCJGI",
+          "images": [
+            "https://i5.walmartimages.com/seo/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-16GB-RAM-1TB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesfy_f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-16GB-RAM-1TB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesfy_f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.4,
+          "ratings_total": 40,
+          "variants": [
+            {
+              "item_id": "2010376887",
+              "product_id": "3S5F3IL86NOJ",
+              "title": "1 TB",
+              "image": "https://i5.walmartimages.com/asr/f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-16GB-RAM-1TB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesfy/2010376887?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "2527480580",
+              "product_id": "191YI6CA20VG",
+              "title": "128 GB",
+              "image": "https://i5.walmartimages.com/asr/f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-4GB-RAM-128GB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesf/2527480580?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "330499446",
+              "product_id": "27RRXPUD4FJS",
+              "title": "256 GB",
+              "image": "https://i5.walmartimages.com/asr/f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-8GB-RAM-256GB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefesf/330499446?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "2142720355",
+              "product_id": "2YYX2REVNSGL",
+              "title": "512 GB",
+              "image": "https://i5.walmartimages.com/asr/f5c0ae1f-7654-40d3-9941-678fe4012970.057705bd3d79cc3a2047fbb3d5f30c8a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-HP-Laptop-15-6-diagonal-HD-Display-Intel-Pentium-Silver-N5000-16GB-RAM-512GB-SSD-UHD-Graphics-Bluetooth-4-2-Wi-Fi-Windows-10-Home-S-Mode-Cefes/2142720355?variantFieldId=hard_drive_capacity"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 484.38,
+            "currency_symbol": "$",
+            "id": "0369E2A936DE4F1BA3A5AA3BC17DB2DB",
+            "seller": {
+              "name": "Littleox Tech LLC",
+              "id": "1C4BF2C352174965ABADDB8974C3DE1E"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 26,
+        "product": {
+          "title": "MSI GF63 Thin 15.6\" Gaming Laptop, 144Hz FHD, Intel Core i5-11400H, NVIDIA GeForce RTX 3050 4GB, 16GB DDR4 Memory, 512GB NVMe SSD, Windows 11, Black, 11UC-1276US",
+          "link": "https://www.walmart.com/ip/MSI-GF63-Thin-15-6-Gaming-Laptop-144Hz-FHD-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-4GB-16GB-DDR4-Memory-512GB-NVMe-SSD-Windows-11-Black-11UC-127/1312771589?athbdg=L1600",
+          "description": "Product Details: Manufacturer: MSI Series: Model: 11UC-1276US Screen Size: 15.6\" Touchscreen: NO Processor: i5-11400H Speed: 2.7GHz RAM: 16GB Solid State Drive: 512GB Operating System: Windows 11 Home",
+          "item_id": "1312771589",
+          "product_id": "1CPML8TMLUJP",
+          "images": [
+            "https://i5.walmartimages.com/seo/MSI-GF63-Thin-15-6-Gaming-Laptop-144Hz-FHD-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-4GB-16GB-DDR4-Memory-512GB-NVMe-SSD-Windows-11-Black-11UC-127_c53d3561-5068-4ef5-b81b-b61fbe3bd189.1026f3576f0aa70bb082c66e850f5458.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/MSI-GF63-Thin-15-6-Gaming-Laptop-144Hz-FHD-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-4GB-16GB-DDR4-Memory-512GB-NVMe-SSD-Windows-11-Black-11UC-127_c53d3561-5068-4ef5-b81b-b61fbe3bd189.1026f3576f0aa70bb082c66e850f5458.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.5,
+          "ratings_total": 63,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 629,
+            "currency_symbol": "$",
+            "id": "1802D63296674B2785364BCE708D2B62",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 27,
+        "product": {
+          "title": "HP 14\" Laptop, Intel Core i5-1135G7, 8GB RAM, 256GB SSD, Natural Silver, Windows 11 Home, 14-dq2078wm",
+          "link": "https://www.walmart.com/ip/HP-14-Laptop-Intel-Core-i5-1135G7-8GB-RAM-256GB-SSD-Natural-Silver-Windows-11-Home-14-dq2078wm/222768279",
+          "description": "<li>HP 14\" Laptop with micro-edge BrightView HD display</li><li>Windows 11 Home, 11th Generation Intel Core i5-1135G7 Processor, Intel Iris Xe Graphics</li><li>8GB RAM, 256GB PCIe NVMe M.2 solid-state</li>",
+          "item_id": "222768279",
+          "product_id": "1469W9ACMOG1",
+          "images": [
+            "https://i5.walmartimages.com/asr/f843ff98-a64d-4db7-a9c9-99e323a926cd.7cc9a6c24bda5f3df89525074b4d96ae.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/f843ff98-a64d-4db7-a9c9-99e323a926cd.7cc9a6c24bda5f3df89525074b4d96ae.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.9,
+          "ratings_total": 140
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 389.95,
+            "currency_symbol": "$",
+            "id": "FF0F7B9FEF774B8BB2A3B69A84F5EC1C",
+            "seller": {
+              "name": "Endear Distributors",
+              "id": "0E5BD0050D9042F69B4B7514E9ABE28D"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 28,
+        "product": {
+          "title": "Restored Acer C738TC44Z Touchscreen Chromebook Laptop 4GB RAM 16GB SSD 11.6 inch HD display Inplane Switching (IPS) Technology (Refurbished)",
+          "link": "https://www.walmart.com/ip/Restored-Acer-C738TC44Z-Touchscreen-Chromebook-Laptop-4GB-RAM-16GB-SSD-11-6-inch-HD-display-Inplane-Switching-IPS-Technology-Refurbished/848950243",
+          "description": "Acer - C738T-C44Z Chromebook Touchscreen - 360 hinge - 4GB RAM 11.6 Laptop In-plane Switching (IPS) Technology (Renewed)",
+          "item_id": "848950243",
+          "product_id": "72VIYUAOOOBP",
+          "images": [
+            "https://i5.walmartimages.com/asr/d751d70e-ee9c-4e31-9964-622dbd025ac3.c54e8363a82cbb7aaf480396b275486e.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/d751d70e-ee9c-4e31-9964-622dbd025ac3.c54e8363a82cbb7aaf480396b275486e.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.8,
+          "ratings_total": 208
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 66.99,
+            "currency_symbol": "$",
+            "id": "1FA95D55BDB3467C8730BB4B53FFF8E1",
+            "seller": {
+              "name": "NewlyBoxed",
+              "id": "EA41353C5AE8441EB7C18B86D496DE10"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 29,
+        "product": {
+          "title": "SAMSUNG 11.6\" 720p Chromebooks Laptop, Intel Celeron N4020, 4 GB RAM, 32 GB SSD, Chrome OS, Silver, XE310XBA-KC1US",
+          "link": "https://www.walmart.com/ip/SAMSUNG-11-6-720p-Chromebooks-Laptop-Intel-Celeron-N4020-4-GB-RAM-32-GB-SSD-Chrome-OS-Silver-XE310XBA-KC1US/153097702",
+          "description": "Samsung IT XE310XBA-KC1US Chromebook 4 - 11.6 Intel UHD Graphics 600, Memory Size: 4GB, Hard Drive Size:32GB, Intel Celeron Processor N4020, Processor Speed:1.10, Operating System:Chrome OS, Graphics:",
+          "item_id": "153097702",
+          "product_id": "1NM6KNVY465K",
+          "images": [
+            "https://i5.walmartimages.com/asr/458487d5-63ef-41c7-8bf9-d26d3ddf8e0e.9a353322210cd82aaed762a8b9047f53.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/458487d5-63ef-41c7-8bf9-d26d3ddf8e0e.9a353322210cd82aaed762a8b9047f53.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4,
+          "ratings_total": 817
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 209.96,
+            "currency_symbol": "$",
+            "id": "AC816E0187FA47B8B79A515DB13539CC",
+            "seller": {
+              "name": "Discount Tech",
+              "id": "78F8435FEE0F4A86B53A404E10B01D09"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 30,
+        "product": {
+          "title": "ASUS Vivobook 17.3\" Full HD PC Laptop, Intel Core i3-1220P, 8GB, 256GB, Silver, Win 11, K1703ZA-WH34",
+          "link": "https://www.walmart.com/ip/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-8GB-256GB-Silver-Win-11-K1703ZA-WH34/388412236",
+          "description": "<li>17.3\" Full HD 1920 1080 bezel display</li><li>Powerful Intel Core i3-1220P Processor 1.1GHz 12M Cache, up to 4.4GHz, 10 cores</li><li>8GB DDR4 RAM and 256GB PCIe NV Me M.2 SSD</li><li>Ergonomic</li>",
+          "item_id": "388412236",
+          "product_id": "1VUZHYBVR6AW",
+          "images": [
+            "https://i5.walmartimages.com/seo/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-8GB-256GB-Silver-Win-11-K1703ZA-WH34_420fa103-74a0-41c3-9e3b-5d2109b14790.c23cb4045aed99e9c1a89ad6380c1188.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-8GB-256GB-Silver-Win-11-K1703ZA-WH34_420fa103-74a0-41c3-9e3b-5d2109b14790.c23cb4045aed99e9c1a89ad6380c1188.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.4,
+          "ratings_total": 327,
+          "variants": [
+            {
+              "item_id": "3686286757",
+              "product_id": "2KNS5YHR5059",
+              "title": "1 TB",
+              "image": "https://i5.walmartimages.com/asr/c1918928-b01f-44a2-a698-b020303ffb7d.49f6a7f79c412bcec24a1248bd6d8b23.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-12GB-1TB-SSD-Silver-Win-11-K1703ZA-WH34/3686286757?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "388412236",
+              "product_id": "54AY6WZYWBPH",
+              "title": "256 GB",
+              "image": "https://i5.walmartimages.com/asr/420fa103-74a0-41c3-9e3b-5d2109b14790.c23cb4045aed99e9c1a89ad6380c1188.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-8GB-256GB-Silver-Win-11-K1703ZA-WH34/388412236?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "2802868546",
+              "product_id": "230C2L2GU6JI",
+              "title": "512 GB",
+              "image": "https://i5.walmartimages.com/asr/c1918928-b01f-44a2-a698-b020303ffb7d.49f6a7f79c412bcec24a1248bd6d8b23.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/ASUS-Vivobook-17-3-Full-HD-PC-Laptop-Intel-Core-i3-1220P-8GB-512GB-Silver-Win-11-K1703ZA-WH34/2802868546?variantFieldId=hard_drive_capacity"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 416,
+            "currency_symbol": "$",
+            "id": "11B57CE020614730BBAF692F12C7D2E4",
+            "seller": {
+              "name": "DEALS SHIELD",
+              "id": "2A6437725CE54E39BA81DDDA13C1EFB2"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 31,
+        "product": {
+          "title": "ASUS ROG Strix G17 (2023) 17.3” QHD 240Hz Gaming Laptop, Ryzen 9-7845HX, NVIDIA GeForce RTX 4060, 16GB DDR5 RAM, 1TB SSD, Windows 11, G713PV-WS94",
+          "link": "https://www.walmart.com/ip/ASUS-ROG-Strix-G17-2023-17-3-QHD-240Hz-Gaming-Laptop-Ryzen-9-7845HX-NVIDIA-GeForce-RTX-4060-16GB-DDR5-RAM-1TB-SSD-Windows-11-G713PV-WS94/2103957626?athbdg=L1102",
+          "item_id": "2103957626",
+          "product_id": "38NG73CQ45JB",
+          "images": [
+            "https://i5.walmartimages.com/seo/ASUS-ROG-Strix-G17-2023-17-3-QHD-240Hz-Gaming-Laptop-Ryzen-9-7845HX-NVIDIA-GeForce-RTX-4060-16GB-DDR5-RAM-1TB-SSD-Windows-11-G713PV-WS94_149d482f-ce8f-4f3c-8b49-d25213f75076.87521e4f0434f4811d49b0e93a3cdb4e.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/ASUS-ROG-Strix-G17-2023-17-3-QHD-240Hz-Gaming-Laptop-Ryzen-9-7845HX-NVIDIA-GeForce-RTX-4060-16GB-DDR5-RAM-1TB-SSD-Windows-11-G713PV-WS94_149d482f-ce8f-4f3c-8b49-d25213f75076.87521e4f0434f4811d49b0e93a3cdb4e.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.7,
+          "ratings_total": 67,
+          "best_seller": true,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 1399,
+            "currency_symbol": "$",
+            "id": "192CCD1841D846E1908BEE3C90EC9FE6",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 32,
+        "product": {
+          "title": "Acer Aspire 3 15.6\" FHD Laptop, Intel Core i3-1115G4, 4GB DDR4, 128GB NVMe SSD, Silver, Windows 11 Home in S Mode, A315-58-33XS",
+          "link": "https://www.walmart.com/ip/Acer-Aspire-3-15-6-FHD-Laptop-Intel-Core-i3-1115G4-4GB-DDR4-128GB-NVMe-SSD-Silver-Windows-11-Home-in-S-Mode-A315-58-33XS/371556667",
+          "item_id": "371556667",
+          "product_id": "1TO2C5L49OQA",
+          "images": [
+            "https://i5.walmartimages.com/seo/Acer-Aspire-3-15-6-FHD-Laptop-Intel-Core-i3-1115G4-4GB-DDR4-128GB-NVMe-SSD-Silver-Windows-11-Home-in-S-Mode-A315-58-33XS_0265a171-0c11-4041-b00a-fba3f07ae8c9.949ff2c032bcdec0058698c77b04aa98.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Acer-Aspire-3-15-6-FHD-Laptop-Intel-Core-i3-1115G4-4GB-DDR4-128GB-NVMe-SSD-Silver-Windows-11-Home-in-S-Mode-A315-58-33XS_0265a171-0c11-4041-b00a-fba3f07ae8c9.949ff2c032bcdec0058698c77b04aa98.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.5,
+          "ratings_total": 147,
+          "sponsored": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 249,
+            "currency_symbol": "$",
+            "id": "8DFF47A99CDA487B99E2B62CD16F2396",
+            "list_price": 299,
+            "savings_amount": 50,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 33,
+        "product": {
+          "title": "HYUNDAI 14 Inch Hybook 4GB RAM, 128GB Storage, Windows 10 Home Laptop, Intel Celeron N4020, Expandable Storage, microSD Slot (Up to 256GB), 14.1\" Inch IPS Display, WiFi & Bluetooth, 5000mAh Battery.",
+          "link": "https://www.walmart.com/ip/HYUNDAI-14-Inch-Hybook-4GB-RAM-128GB-Storage-Windows-10-Home-Laptop-Intel-Celeron-N4020-Expandable-microSD-Slot-Up-256GB-14-1-IPS-Display-WiFi-Blueto/266069040",
+          "description": "<li>14.1\" Celeron Laptop</li><li>Windows 10 Home S Mode</li><li>4GB RAM, 128GB Storage</li><li>HD Webcam</li><li>Expandable M.2 SATA SSD Slot</li><li>Expandable microSD Slot</li>",
+          "item_id": "266069040",
+          "product_id": "1M9P5FDHBLRC",
+          "images": [
+            "https://i5.walmartimages.com/asr/0a6fd6f0-dfc7-4f58-8b9a-e8347d3e262c.00f235fefb0be8efea0acdaec27ddc3d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/0a6fd6f0-dfc7-4f58-8b9a-e8347d3e262c.00f235fefb0be8efea0acdaec27ddc3d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.6,
+          "ratings_total": 26
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 169.37,
+            "currency_symbol": "$",
+            "id": "779096803CD84137ABE4D6701B48910B",
+            "seller": {
+              "name": "antonline.com",
+              "id": "446FD754391F425D863D68925949A94C"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 34,
+        "product": {
+          "title": "Lenovo Ideapad 3i Chromebook, 15.6\" FHD, Intel Celeron N4500, 4GB RAM, 64GB eMMC, Arctic Grey, 82N4002HUS",
+          "link": "https://www.walmart.com/ip/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS/951435754",
+          "description": "Lenovo Slim 3 Chromebook Laptop, 14\" FHD Touchscreen Computer, 8-Core MediaTek Kompanio 520 Processor, 4GB RAM, 320GB Storage(64GB eMMC + 256GB Micro SD), Wi-Fi 6, Webcam, Chrome OS",
+          "item_id": "951435754",
+          "product_id": "3BJHPFLLHXLL",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS_45580b26-c7cd-4af2-96fe-4512140037c0.965a3f54d834794a7e6f23ebd3ec1dfd.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS_45580b26-c7cd-4af2-96fe-4512140037c0.965a3f54d834794a7e6f23ebd3ec1dfd.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.2,
+          "ratings_total": 93,
+          "variants": [
+            {
+              "item_id": "951435754",
+              "product_id": "50XKB9WYBP5K",
+              "title": "4GB RAM|64GB eMMC",
+              "image": "https://i5.walmartimages.com/asr/45580b26-c7cd-4af2-96fe-4512140037c0.965a3f54d834794a7e6f23ebd3ec1dfd.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Lenovo-Ideapad-3i-Chromebook-15-6-FHD-Intel-Celeron-N4500-4GB-RAM-64GB-eMMC-Arctic-Grey-82N4002HUS/951435754?variantFieldId=edition"
+            },
+            {
+              "item_id": "1693367747",
+              "product_id": "1IKHGGTG3ONJ",
+              "title": "4GB RAM|64GB eMMC|256GB MicroSD",
+              "image": "https://i5.walmartimages.com/asr/58ae07c1-1b71-4bfa-8a25-b85119cb265d.fafdedcc322326331348283f8fa6ad2c.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Lenovo-Slim-3-Chromebook-Laptop-14-FHD-Touchscreen-Computer-8-Core-MediaTek-Kompanio-520-Processor-4GB-RAM-320GB-Storage-64GB-eMMC-256GB-Micro-SD-Wi-/1693367747?variantFieldId=edition"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 229,
+            "currency_symbol": "$",
+            "id": "4A49C75A197847108D76F8DB3E1116A8",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 35,
+        "product": {
+          "title": "Lenovo IdeaPad 3i 14\"FHD Laptop, Intel Core i5-1135G7, 8GB, 256GB SSD, Windows 11, Platinum Grey, 81X700FVUS",
+          "link": "https://www.walmart.com/ip/Lenovo-IdeaPad-3i-14-FHD-Laptop-Intel-Core-i5-1135G7-8GB-256GB-SSD-Windows-11-Platinum-Grey-81X700FVUS/1812365794?athbdg=L1103",
+          "description": "Engineered for long-lasting performance, the Lenovo IdeaPad 3i delivers powerful performance with an Intel Core i5 Processor and Integrated Intel Iris X Graphics. A narrow bezel on 2 sides makes for a",
+          "item_id": "1812365794",
+          "product_id": "1XTS74RKLH4Q",
+          "images": [
+            "https://i5.walmartimages.com/seo/Lenovo-IdeaPad-3i-14-FHD-Laptop-Intel-Core-i5-1135G7-8GB-256GB-SSD-Windows-11-Platinum-Grey-81X700FVUS_70701446-e63a-4490-a792-f7fdd3f7df00.8ede4ef5dbddddbc3d98b5a7383c53a0.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Lenovo-IdeaPad-3i-14-FHD-Laptop-Intel-Core-i5-1135G7-8GB-256GB-SSD-Windows-11-Platinum-Grey-81X700FVUS_70701446-e63a-4490-a792-f7fdd3f7df00.8ede4ef5dbddddbc3d98b5a7383c53a0.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.6,
+          "ratings_total": 1638,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 369,
+            "currency_symbol": "$",
+            "id": "31FB33277D0548E0AE1B89A2B3543E1F",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 36,
+        "product": {
+          "title": "HP 14 Series 14\" Touchscreen Laptop Intel Celeron N4020 4GB RAM 64GB eMMC Indigo Blue",
+          "link": "https://www.walmart.com/ip/HP-14-Series-14-Touchscreen-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Indigo-Blue/627461948",
+          "description": "Intel Chip - Windows 10 Home in S mode - Intel UHD Graphics - BrightView - IEEE 802.11a/b/g/n/ac Wireless LAN StandardGeneral InformationManufacturer:HP Inc.Manufacturer Part Number:47X80UA#ABABrand",
+          "item_id": "627461948",
+          "product_id": "3CFXBTI0TS3A",
+          "images": [
+            "https://i5.walmartimages.com/asr/8556fc0e-a51b-4cee-8c43-098255d8628e.7953f226cdd0a877cd8c9f54eded6048.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/8556fc0e-a51b-4cee-8c43-098255d8628e.7953f226cdd0a877cd8c9f54eded6048.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.5,
+          "ratings_total": 40
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 239.99,
+            "currency_symbol": "$",
+            "id": "116E0A4BADD540F7B0139762B62B80B8",
+            "seller": {
+              "name": "antonline.com",
+              "id": "446FD754391F425D863D68925949A94C"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 37,
+        "product": {
+          "title": "ASUS Vivobook 15.6 FHD PC Laptop, Intel i3-N305, 8GB, 256GB, Windows 11, Green Grey, E1504GA-WS34",
+          "link": "https://www.walmart.com/ip/ASUS-Vivobook-15-6-FHD-PC-Laptop-Intel-i3-N305-8GB-256GB-Windows-11-Green-Grey-E1504GA-WS34/1273537870",
+          "description": "Merchandise",
+          "item_id": "1273537870",
+          "product_id": "66FA29E3GF8O",
+          "images": [
+            "https://i5.walmartimages.com/asr/a523959b-74fc-4b3b-9c59-95ab7681b6a1.737dee4c916dcbae1858ad384f731bea.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/a523959b-74fc-4b3b-9c59-95ab7681b6a1.737dee4c916dcbae1858ad384f731bea.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.5,
+          "ratings_total": 115
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 339,
+            "currency_symbol": "$",
+            "id": "FC0140950C094F91BAE289847F2E6EDD",
+            "list_price": 379,
+            "savings_amount": 40,
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 38,
+        "product": {
+          "title": "ASUS VivoBook Go 14 Flip Thin and Light 2-in-1 Laptop, 14” HD Touch, Intel Celeron N4500 CPU, UHD Graphics, 4GB RAM, 64GB eMMC, NumberPad, Windows 11 Home in S mode, Quiet Blue, J1400KA-DS02T",
+          "link": "https://www.walmart.com/ip/ASUS-VivoBook-Go-14-Flip-Thin-Light-2-in-1-Laptop-14-HD-Touch-Intel-Celeron-N4500-CPU-UHD-Graphics-4GB-RAM-64GB-eMMC-NumberPad-Windows-11-Home-S-mode/1255995406",
+          "description": "<li>Sold as 1 Each.</li><li>Features 1.1GHz Intel Celeron N4500 dual-core processor with up to 2.8GHz speed and 4MB cache memory. DDR4 SO-DIMM memory technology for a high-performance solution. 1-year</li>",
+          "item_id": "1255995406",
+          "product_id": "49RM5P9M5GOW",
+          "images": [
+            "https://i5.walmartimages.com/seo/ASUS-VivoBook-Go-14-Flip-Thin-Light-2-in-1-Laptop-14-HD-Touch-Intel-Celeron-N4500-CPU-UHD-Graphics-4GB-RAM-64GB-eMMC-NumberPad-Windows-11-Home-S-mode_f02181d4-6ff9-4187-92f8-7eb8bf5ea901.cca3dded3d395412fb11e631c76a2c49.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/ASUS-VivoBook-Go-14-Flip-Thin-Light-2-in-1-Laptop-14-HD-Touch-Intel-Celeron-N4500-CPU-UHD-Graphics-4GB-RAM-64GB-eMMC-NumberPad-Windows-11-Home-S-mode_f02181d4-6ff9-4187-92f8-7eb8bf5ea901.cca3dded3d395412fb11e631c76a2c49.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 3.5,
+          "ratings_total": 24
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 236.77,
+            "currency_symbol": "$",
+            "id": "E89EAB4CFB2445EC983AB75C31121ED9",
+            "seller": {
+              "name": "Hooray Store",
+              "id": "5130C222B4814EF080910CAECC4D6A9A"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 39,
+        "product": {
+          "title": "Acer Aspire 3 15.6\" FHD Laptop, Intel Core i3-1115G4, 4GB DDR4, 128GB SSD, Teal, Windows 11, A315-58-34DA",
+          "link": "https://www.walmart.com/ip/Acer-Aspire-3-15-6-FHD-Laptop-Intel-Core-i3-1115G4-4GB-DDR4-128GB-SSD-Teal-Windows-11-A315-58-34DA/733984289",
+          "description": "Merchandise",
+          "item_id": "733984289",
+          "product_id": "5ZW32FF6Z1R4",
+          "images": [
+            "https://i5.walmartimages.com/asr/57bf43cc-5a3e-4ebe-95d3-3f118215080f.8f4b15c7318742dad1a70bf995afe490.png?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/57bf43cc-5a3e-4ebe-95d3-3f118215080f.8f4b15c7318742dad1a70bf995afe490.png?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.3,
+          "ratings_total": 46
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 313,
+            "currency_symbol": "$",
+            "id": "A68E53BD905F42A1A4B5FD5D40E292B5",
+            "seller": {
+              "name": "Hooray Store",
+              "id": "5130C222B4814EF080910CAECC4D6A9A"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 40,
+        "product": {
+          "title": "HP 15.6\" Screen FHD Laptop, Intel Core i5-1135G7, 8GB RAM, 256GB SSD, Natural Silver, Windows 11 Home, 15-dy2795wm",
+          "link": "https://www.walmart.com/ip/HP-15-6-Screen-FHD-Laptop-Intel-Core-i5-1135G7-8GB-RAM-256GB-SSD-Natural-Silver-Windows-11-Home-15-dy2795wm/480912399",
+          "description": "HP 15.6\" FHD i5",
+          "item_id": "480912399",
+          "product_id": "6WYZ86HP1ED5",
+          "images": [
+            "https://i5.walmartimages.com/asr/15405cd8-b5bb-4a40-9b66-805c058ede32.9ec65599336828f0da718797a2a19e18.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/15405cd8-b5bb-4a40-9b66-805c058ede32.9ec65599336828f0da718797a2a19e18.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4,
+          "ratings_total": 395
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 429.98,
+            "currency_symbol": "$",
+            "id": "8E36B4DC9E734C06ABBC88977AA47867",
+            "seller": {
+              "name": "Endear Distributors",
+              "id": "0E5BD0050D9042F69B4B7514E9ABE28D"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 41,
+        "product": {
+          "title": "Newest Dell Inspiron 3510 Laptop, 15.6\" HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB HDD, Webcam, WiFi, HDMI, Bluetooth, Windows 11 Home, Black",
+          "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-16GB-DDR4-RAM-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black/186295539",
+          "description": "<li>High Speed RAM And Enormous Space8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 128GB PCIe NVME M.2 Solid State Drive allows to fast bootup and data</li>",
+          "item_id": "186295539",
+          "product_id": "7DSWGAELIZVM",
+          "images": [
+            "https://i5.walmartimages.com/seo/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-16GB-DDR4-RAM-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black_7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-16GB-DDR4-RAM-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black_7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 3.8,
+          "ratings_total": 19,
+          "variants": [
+            {
+              "item_id": "292928527",
+              "product_id": "11RQYFJ1ABSX",
+              "title": "8GB RAM | 128GB PCIe SSD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-8GB-RAM-128GB-PCIe-SSD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black/292928527?variantFieldId=edition"
+            },
+            {
+              "item_id": "429744738",
+              "product_id": "7CIXMQCGKAUW",
+              "title": "8GB RAM | 128GB PCIe SSD + 1TB HDD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-8GB-DDR4-RAM-128GB-PCIe-SSD-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows/429744738?variantFieldId=edition"
+            },
+            {
+              "item_id": "387477633",
+              "product_id": "53SUD2DPCN7P",
+              "title": "8GB RAM | 1TB HDD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-8GB-DDR4-RAM-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black/387477633?variantFieldId=edition"
+            },
+            {
+              "item_id": "610451071",
+              "product_id": "4GIKCD4ZQ2B9",
+              "title": "8GB RAM | 256GB PCIe SSD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-8GB-DDR4-RAM-256GB-PCIe-SSD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home/610451071?variantFieldId=edition"
+            },
+            {
+              "item_id": "186295539",
+              "product_id": "5TYUVLGIOX8J",
+              "title": "16GB RAM | 1TB HDD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-Processor-16GB-DDR4-RAM-1TB-HDD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black/186295539?variantFieldId=edition"
+            },
+            {
+              "item_id": "508812370",
+              "product_id": "5P9GKDMYZSQ0",
+              "title": "16GB RAM | 256GB PCIe SSD",
+              "image": "https://i5.walmartimages.com/asr/7c297462-2689-491c-a10f-04e923a9828d.2cbd061f9dd82843290aeeac2346cef1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Newest-Dell-Inspiron-3510-Laptop-15-6-HD-Display-Intel-Celeron-N4020-16GB-RAM-256GB-PCIe-SSD-Webcam-WiFi-HDMI-Bluetooth-Windows-11-Home-Black/508812370?variantFieldId=edition"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 568.99,
+            "currency_symbol": "$",
+            "id": "C4FF6E320CD33235BE6B3951CBEFCC09",
+            "seller": {
+              "name": "Easy-Goes Tech",
+              "id": "8FAD423DD4B74F89B64B4DB1600C0E64"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 42,
+        "product": {
+          "title": "HP Stream 11-ak0030nr 11\" Laptop N4020 4GB 64GB eMMC W11H Blue 47X72UA",
+          "link": "https://www.walmart.com/ip/HP-Stream-11-ak0030nr-11-Laptop-N4020-4GB-64GB-eMMC-W11H-Blue-47X72UA/907646167",
+          "description": "HP Stream 11-ak0000 11-ak0030nr 11.6\" Notebook - HD - 1366 x 768 - Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz - 4 GB RAM - 64 GB Flash Memory . This product may be returned within 30 days for a",
+          "item_id": "907646167",
+          "product_id": "4JGVB06PJU7H",
+          "images": [
+            "https://i5.walmartimages.com/asr/7abdf55d-aa65-4c57-abcf-3aa599c68146.e11eb154fdc986bac63655190af46788.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/7abdf55d-aa65-4c57-abcf-3aa599c68146.e11eb154fdc986bac63655190af46788.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.4,
+          "ratings_total": 51
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 199.99,
+            "currency_symbol": "$",
+            "id": "DE7747963E9A48339F87EE2D57A3B6E9",
+            "list_price": 249.99,
+            "savings_amount": 50,
+            "seller": {
+              "name": "antonline.com",
+              "id": "446FD754391F425D863D68925949A94C"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 43,
+        "product": {
+          "title": "ASUS ROG Strix G17 (2023) 17.3 QHD 240Hz Gaming Laptop, Ryzen 9-7845HX, NVIDIA GeForce RTX 4060, 16GB DDR5 RAM, 1TB SSD, Windows 11, G713PV-WS94",
+          "link": "https://www.walmart.com/ip/ASUS-ROG-Strix-G17-2023-17-3-QHD-240Hz-Gaming-Laptop-Ryzen-9-7845HX-NVIDIA-GeForce-RTX-4060-16GB-DDR5-RAM-1TB-SSD-Windows-11-G713PV-WS94/2103957626?athbdg=L1102",
+          "description": "Raise your game and call the shots with the ROG Strix G17, a powerful and sleek gaming laptop designed for esports domination. The ROG Intelligent Cooling system ensures sustained performance during",
+          "item_id": "2103957626",
+          "product_id": "38NG73CQ45JB",
+          "images": [
+            "https://i5.walmartimages.com/asr/149d482f-ce8f-4f3c-8b49-d25213f75076.87521e4f0434f4811d49b0e93a3cdb4e.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/149d482f-ce8f-4f3c-8b49-d25213f75076.87521e4f0434f4811d49b0e93a3cdb4e.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 4.7,
+          "ratings_total": 67,
+          "best_seller": true
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 1399,
+            "currency_symbol": "$",
+            "id": "192CCD1841D846E1908BEE3C90EC9FE6",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 44,
+        "product": {
+          "title": "HP 14\" PC Laptop, Intel Celeron N4000, 4GB RAM, 64GB HD, Windows 10S with 1 year Office 365, Blue, 14-cb171wm",
+          "link": "https://www.walmart.com/ip/HP-14-PC-Laptop-Intel-Celeron-N4000-4GB-RAM-64GB-HD-Windows-10S-with-1-year-Office-365-Blue-14-cb171wm/803600781",
+          "description": "Windows 10 Home in S mode with integrated Intel UHD Graphics 600 Intel Celeron N4000 Processor, Dual-Core 1.1 GHz up to 2.6 GHz, Up to 11 hours video playback, 7.5 hours wireless streaming, 1-year",
+          "item_id": "803600781",
+          "product_id": "4X2K6PFEZZ12",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-14-PC-Laptop-Intel-Celeron-N4000-4GB-RAM-64GB-HD-Windows-10S-with-1-year-Office-365-Blue-14-cb171wm_191bd66c-ab3f-4cf7-be05-552b61c6c7c1.dfb556817f183a8d00f0605ea0cf2847.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-14-PC-Laptop-Intel-Celeron-N4000-4GB-RAM-64GB-HD-Windows-10S-with-1-year-Office-365-Blue-14-cb171wm_191bd66c-ab3f-4cf7-be05-552b61c6c7c1.dfb556817f183a8d00f0605ea0cf2847.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4,
+          "ratings_total": 2334
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 289,
+            "currency_symbol": "$",
+            "id": "017D19AD0D4D49F0B22DEC1E5FC1A325",
+            "seller": {
+              "name": "Skyzone-Rotana electronics inc",
+              "id": "A1935ACAFF4146EF8A8138CF25F75882"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 45,
+        "product": {
+          "title": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
+          "link": "https://www.walmart.com/ip/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-8GB-Memory-256GB-SSD-Natural-Silver/1324986121",
+          "description": "Operating system: Windows 11 Home in S mode\nExperience the most secure Windows ever built with fast boot times, increased responsiveness, and added protection against phishing and malware.\n\nDisplay:",
+          "item_id": "1324986121",
+          "product_id": "2YAM05KUYYPD",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-8GB-Memory-256GB-SSD-Natural-Silver_311c133f-92f1-4fd6-bff7-1a2e82dad989.88800196e6ed69267b0d9208da00698c.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-8GB-Memory-256GB-SSD-Natural-Silver_311c133f-92f1-4fd6-bff7-1a2e82dad989.88800196e6ed69267b0d9208da00698c.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.9,
+          "ratings_total": 8,
+          "variants": [
+            {
+              "item_id": "3908859648",
+              "product_id": "7DNIBUHMFW0Z",
+              "title": "1 TB",
+              "image": "https://i5.walmartimages.com/asr/28db7a8b-0350-421c-8fc2-e094d5599843.ebb00906e1928cdc5a224f7c0021ac0a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-16GB-Memory-1TB-SSD-Natural-Silver/3908859648?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "1324986121",
+              "product_id": "5IT11ARN9MDE",
+              "title": "256 GB",
+              "image": "https://i5.walmartimages.com/asr/311c133f-92f1-4fd6-bff7-1a2e82dad989.88800196e6ed69267b0d9208da00698c.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-8GB-Memory-256GB-SSD-Natural-Silver/1324986121?variantFieldId=hard_drive_capacity"
+            },
+            {
+              "item_id": "3635633385",
+              "product_id": "4EPNGCKWXHAS",
+              "title": "512 GB",
+              "image": "https://i5.walmartimages.com/asr/28db7a8b-0350-421c-8fc2-e094d5599843.ebb00906e1928cdc5a224f7c0021ac0a.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/HP-15-6-Touch-Screen-Laptop-Intel-Core-i3-12GB-Memory-512GB-SSD-Natural-Silver/3635633385?variantFieldId=hard_drive_capacity"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 373.7,
+            "currency_symbol": "$",
+            "id": "0ECF2B3D6654461AB7C6216D92CAF788",
+            "seller": {
+              "name": "AZ TECH",
+              "id": "8697164F16554D549D157529628EFBC4"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 46,
+        "product": {
+          "title": "Auusda 14.1inch Laptop 8GB DDR4 256GB SSD Windows 11 Laptop Computer with Quad Core Intel Celeron J4105 up to 2.5GHz Full HD 1920x1080 Laptops Computer",
+          "link": "https://www.walmart.com/ip/Auusda-14-1inch-Laptop-8GB-DDR4-256GB-SSD-Windows-11-Computer-Quad-Core-Intel-Celeron-J4105-2-5GHz-Full-HD-1920x1080-Laptops/2079126962",
+          "description": "Auusda 14.1\" Screen FHD Laptop Computer, Intel Celeron J4105, 8GB RAM, 256GB SSD, Silver, Windows 11 Pro, Wifi+Bluetooth",
+          "item_id": "2079126962",
+          "product_id": "1FHF0KW3ZJTA",
+          "images": [
+            "https://i5.walmartimages.com/seo/Auusda-14-1inch-Laptop-8GB-DDR4-256GB-SSD-Windows-11-Computer-Quad-Core-Intel-Celeron-J4105-2-5GHz-Full-HD-1920x1080-Laptops_660dca74-d33d-42ef-9861-c465a9a4bccd.021b0e646b6df9c50d8603fa03064505.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/Auusda-14-1inch-Laptop-8GB-DDR4-256GB-SSD-Windows-11-Computer-Quad-Core-Intel-Celeron-J4105-2-5GHz-Full-HD-1920x1080-Laptops_660dca74-d33d-42ef-9861-c465a9a4bccd.021b0e646b6df9c50d8603fa03064505.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4.7,
+          "ratings_total": 137,
+          "variants": [
+            {
+              "item_id": "2603237832",
+              "product_id": "19Y6XDEQFJCU",
+              "title": "Wireless Mouse",
+              "image": "https://i5.walmartimages.com/asr/e1ed8f14-7214-4355-95af-bfc05ffb98f4.1572de9f40499967d76bd1c36e7964ce.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Auusda-Wireless-Mouse-with-USB-Mini-Receiver-Swift-Gray-Ambidextrous-2-4GHz/2603237832?variantFieldId=edition"
+            },
+            {
+              "item_id": "1868138717",
+              "product_id": "5YX5ZMT1QZFO",
+              "title": "N95",
+              "image": "https://i5.walmartimages.com/asr/ec401ee0-3f1b-49b5-a00b-78d0bf11671c.6459c82647ebc80ea25abaff28694b58.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Auusda-Y140-2-in-1-Laptop-14-1-4K-UHD-Screen-12GB-DDR5-RAM-512GB-SSD-Intel-N95-Processor-Grey/1868138717?variantFieldId=edition"
+            },
+            {
+              "item_id": "2079126962",
+              "product_id": "5A53Z8D9UYJB",
+              "title": "Celeron J4105",
+              "image": "https://i5.walmartimages.com/asr/660dca74-d33d-42ef-9861-c465a9a4bccd.021b0e646b6df9c50d8603fa03064505.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+              "link": "https://www.walmart.com/ip/Auusda-14-1inch-Laptop-8GB-DDR4-256GB-SSD-Windows-11-Computer-Quad-Core-Intel-Celeron-J4105-2-5GHz-Full-HD-1920x1080-Laptops/2079126962?variantFieldId=edition"
+            }
+          ]
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 219.99,
+            "currency_symbol": "$",
+            "id": "768F452D447D4D0AA0D33C446D4143CF",
+            "list_price": 369.99,
+            "savings_amount": 150,
+            "seller": {
+              "name": "Forwell Electronics",
+              "id": "3BE68ACAD933473798B1077E44575327"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 47,
+        "product": {
+          "title": "HP 14\" Laptop, Intel Core i3-1115G4, 4GB RAM, 128G SSD, Natural Silver, Windows 11 Home in S mode, 14-dq2031wm",
+          "link": "https://www.walmart.com/ip/HP-14-Laptop-Intel-Core-i3-1115G4-4GB-RAM-128G-SSD-Natural-Silver-Windows-11-Home-in-S-mode-14-dq2031wm/846297727",
+          "description": "Product Details: Manufacturer: HP Series: Model: 14-dq2031wm Screen Size: 14\" Touchscreen: NO Processor: i3-1115G4 Speed: 2.9GHz RAM: 4GB Solid State Drive: 128GB Operating System: Windows 11 Home",
+          "item_id": "846297727",
+          "product_id": "69MTCSOBC821",
+          "images": [
+            "https://i5.walmartimages.com/asr/162443ec-549c-4444-8ded-77ab94b04ff1.9e5758c9a5ac11db7120e26794a5ff0c.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/162443ec-549c-4444-8ded-77ab94b04ff1.9e5758c9a5ac11db7120e26794a5ff0c.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.8,
+          "ratings_total": 101
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 329,
+            "currency_symbol": "$",
+            "id": "18CD46BED7E948C4A1E38491D38E2E11",
+            "seller": {
+              "name": "Walmart.com",
+              "id": "F55CDC31AB754BB68FE0B39041159D63"
+            }
+          },
+          "is_marketplace_item": false
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 48,
+        "product": {
+          "title": "HP Stream 14\", Intel Celeron N4020, 4GB RAM, 64GB eMMC, Rose Pink, Windows 10 (S Mode), 14-cb172wm",
+          "link": "https://www.walmart.com/ip/HP-Stream-14-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Rose-Pink-Windows-10-S-Mode-14-cb172wm/491579860",
+          "description": "Windows 10 Home in S mode with integrated Intel UHD Graphics 600 Intel Celeron N4000 Processor, Dual-Core 1.1 GHz up to 2.6 GHz, Up to 11 hours video playback, 7.5 hours wireless streaming, 1-year",
+          "item_id": "491579860",
+          "product_id": "2H1O7W0OGCMA",
+          "images": [
+            "https://i5.walmartimages.com/seo/HP-Stream-14-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Rose-Pink-Windows-10-S-Mode-14-cb172wm_63c76ef5-3365-488d-bc08-baf836f72176.964b6280a68b5bab23babb42a317a601.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF"
+          ],
+          "main_image": "https://i5.walmartimages.com/seo/HP-Stream-14-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Rose-Pink-Windows-10-S-Mode-14-cb172wm_63c76ef5-3365-488d-bc08-baf836f72176.964b6280a68b5bab23babb42a317a601.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+          "rating": 4,
+          "ratings_total": 2334
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 289,
+            "currency_symbol": "$",
+            "id": "1B7AB9A885C84B5E888B155366B03D35",
+            "seller": {
+              "name": "Skyzone-Rotana electronics inc",
+              "id": "A1935ACAFF4146EF8A8138CF25F75882"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      },
+      {
+        "position": 49,
+        "product": {
+          "title": "HP 11.6\" Chromebook, AMD A4, 4GB RAM, 32GB Storage, Black, Chrome OS, 16W64UT#ABA",
+          "link": "https://www.walmart.com/ip/HP-11-6-Chromebook-AMD-A4-4GB-RAM-32GB-Storage-Black-Chrome-OS-16W64UT-ABA/592161882",
+          "description": "Merchandise",
+          "item_id": "592161882",
+          "product_id": "3YKJ2O9HIWW6",
+          "images": [
+            "https://i5.walmartimages.com/asr/7c1147f0-e2d1-4fea-9f7d-0387ffd2d462.0e1cdd9282c024dd2aae089989dc8bc2.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff"
+          ],
+          "main_image": "https://i5.walmartimages.com/asr/7c1147f0-e2d1-4fea-9f7d-0387ffd2d462.0e1cdd9282c024dd2aae089989dc8bc2.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+          "rating": 3.8,
+          "ratings_total": 1285
+        },
+        "inventory": {
+          "in_stock": true,
+          "preorder": false
+        },
+        "offers": {
+          "primary": {
+            "price": 132.98,
+            "currency_symbol": "$",
+            "id": "3F688BA5DD93476C985CD6CC73C63384",
+            "seller": {
+              "name": "BWWI",
+              "id": "4F82D3CB77EA4EC49C942EDFE81C4C81"
+            }
+          },
+          "is_marketplace_item": true
+        },
+        "fulfillment": {
+          "pickup": false,
+          "delivery_from_store": false,
+          "shipping": false
+        }
+      }
+    ],
+    "facets": [
+      {
+        "name": "cat_id",
+        "display_name": "Departments",
+        "values": [
+          {
+            "name": "Electronics",
+            "param_value": "facets=cat_id=Electronics",
+            "count": 238517
+          }
+        ]
+      },
+      {
+        "name": "brand",
+        "display_name": "Brand",
+        "values": [
+          {
+            "name": "HP",
+            "param_value": "facets=brand=HP",
+            "count": 74031
+          },
+          {
+            "name": "Lenovo",
+            "param_value": "facets=brand=Lenovo",
+            "count": 35996
+          },
+          {
+            "name": "Acer",
+            "param_value": "facets=brand=Acer",
+            "count": 12308
+          },
+          {
+            "name": "ASUS",
+            "param_value": "facets=brand=ASUS",
+            "count": 19242
+          },
+          {
+            "name": "Dell",
+            "param_value": "facets=brand=Dell",
+            "count": 33943
+          },
+          {
+            "name": "Apple",
+            "param_value": "facets=brand=Apple",
+            "count": 6232
+          },
+          {
+            "name": "SGIN",
+            "param_value": "facets=brand=SGIN",
+            "count": 18
+          },
+          {
+            "name": "Gateway",
+            "param_value": "facets=brand=Gateway",
+            "count": 579
+          },
+          {
+            "name": "SAMSUNG",
+            "param_value": "facets=brand=SAMSUNG",
+            "count": 297
+          },
+          {
+            "name": "MSI",
+            "param_value": "facets=brand=MSI",
+            "count": 8728
+          },
+          {
+            "name": "KUU",
+            "param_value": "facets=brand=KUU",
+            "count": 14
+          },
+          {
+            "name": "onn.",
+            "param_value": "facets=brand=onn.",
+            "count": 59
+          },
+          {
+            "name": "Chuwi",
+            "param_value": "facets=brand=Chuwi",
+            "count": 27
+          },
+          {
+            "name": "Microsoft",
+            "param_value": "facets=brand=Microsoft",
+            "count": 1417
+          },
+          {
+            "name": "Core Innovations",
+            "param_value": "facets=brand=Core+Innovations",
+            "count": 11
+          },
+          {
+            "name": "Auusda",
+            "param_value": "facets=brand=Auusda",
+            "count": 7
+          },
+          {
+            "name": "Logitech",
+            "param_value": "facets=brand=Logitech",
+            "count": 7
+          },
+          {
+            "name": "Sony",
+            "param_value": "facets=brand=Sony",
+            "count": 2
+          },
+          {
+            "name": "Nintendo",
+            "param_value": "facets=brand=Nintendo",
+            "count": 13
+          },
+          {
+            "name": "Hyundai",
+            "param_value": "facets=brand=Hyundai",
+            "count": 22
+          }
+        ]
+      },
+      {
+        "name": "fulfillment_speed",
+        "display_name": "Fulfillment Speed",
+        "values": [
+          {
+            "name": "Today",
+            "param_value": "facets=fulfillment_speed=Today"
+          },
+          {
+            "name": "Tomorrow",
+            "param_value": "facets=fulfillment_speed=Tomorrow"
+          },
+          {
+            "name": "2 days",
+            "param_value": "facets=fulfillment_speed=2+days"
+          },
+          {
+            "name": "Anytime",
+            "param_value": "facets=fulfillment_speed=Anytime"
+          }
+        ]
+      },
+      {
+        "name": "exclude_oos",
+        "display_name": "Availability",
+        "values": [
+          {
+            "name": "Show available items only",
+            "param_value": "facets=exclude_oos=Show+available+items+only"
+          }
+        ]
+      },
+      {
+        "name": "processor_type",
+        "display_name": "Processor Type",
+        "values": [
+          {
+            "name": "Intel Core i3",
+            "param_value": "facets=processor_type=Intel+Core+i3",
+            "count": 2912
+          },
+          {
+            "name": "Intel Core i5",
+            "param_value": "facets=processor_type=Intel+Core+i5",
+            "count": 20981
+          },
+          {
+            "name": "Intel Core i7",
+            "param_value": "facets=processor_type=Intel+Core+i7",
+            "count": 13719
+          },
+          {
+            "name": "Apple M1",
+            "param_value": "facets=processor_type=Apple+M1",
+            "count": 71
+          },
+          {
+            "name": "Apple M2",
+            "param_value": "facets=processor_type=Apple+M2",
+            "count": 27
+          },
+          {
+            "name": "AMD Ryzen 3",
+            "param_value": "facets=processor_type=AMD+Ryzen+3",
+            "count": 86
+          },
+          {
+            "name": "AMD Ryzen 5",
+            "param_value": "facets=processor_type=AMD+Ryzen+5",
+            "count": 3706
+          },
+          {
+            "name": "AMD Ryzen 7",
+            "param_value": "facets=processor_type=AMD+Ryzen+7",
+            "count": 2836
+          },
+          {
+            "name": "Intel Celeron",
+            "param_value": "facets=processor_type=Intel+Celeron",
+            "count": 1239
+          },
+          {
+            "name": "Intel Core i9",
+            "param_value": "facets=processor_type=Intel+Core+i9",
+            "count": 470
+          },
+          {
+            "name": "AMD Ryzen 9",
+            "param_value": "facets=processor_type=AMD+Ryzen+9",
+            "count": 2365
+          },
+          {
+            "name": "Intel Pentium Gold",
+            "param_value": "facets=processor_type=Intel+Pentium+Gold",
+            "count": 22
+          },
+          {
+            "name": "Intel Pentium Silver",
+            "param_value": "facets=processor_type=Intel+Pentium+Silver",
+            "count": 35
+          },
+          {
+            "name": "Apple M1 Pro",
+            "param_value": "facets=processor_type=Apple+M1+Pro",
+            "count": 13
+          },
+          {
+            "name": "Apple M1 Max",
+            "param_value": "facets=processor_type=Apple+M1+Max",
+            "count": 1
+          },
+          {
+            "name": "Apple M2 Pro",
+            "param_value": "facets=processor_type=Apple+M2+Pro",
+            "count": 3
+          },
+          {
+            "name": "Apple M2 Max",
+            "param_value": "facets=processor_type=Apple+M2+Max",
+            "count": 2
+          },
+          {
+            "name": "Intel Core i5-1035G1",
+            "param_value": "facets=processor_type=Intel+Core+i5-1035G1",
+            "count": 74
+          },
+          {
+            "name": "Intel Core i7-10750H",
+            "param_value": "facets=processor_type=Intel+Core+i7-10750H",
+            "count": 11
+          },
+          {
+            "name": "Core i5",
+            "param_value": "facets=processor_type=Core+i5",
+            "count": 546
+          }
+        ]
+      },
+      {
+        "name": "hard_drive_capacity_component_hard_drive",
+        "display_name": "Hard Drive Size",
+        "values": [
+          {
+            "name": "2.0TB & Up",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=2.0TB+&+Up",
+            "count": 37566
+          },
+          {
+            "name": "1.0TB - 2.0TB",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=1.0TB+-+2.0TB",
+            "count": 40859
+          },
+          {
+            "name": "640GB - 1.0TB",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=640GB+-+1.0TB",
+            "count": 19995
+          },
+          {
+            "name": "500GB - 640GB",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=500GB+-+640GB",
+            "count": 18967
+          },
+          {
+            "name": "320GB - 500GB",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=320GB+-+500GB",
+            "count": 3456
+          },
+          {
+            "name": "250GB - 320GB",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=250GB+-+320GB",
+            "count": 11139
+          },
+          {
+            "name": "250GB & Under",
+            "param_value": "facets=hard_drive_capacity_component_hard_drive=250GB+&+Under",
+            "count": 11544
+          }
+        ]
+      },
+      {
+        "name": "screen_size_laptop",
+        "display_name": "Screen Size",
+        "values": [
+          {
+            "name": "10\" - 12\"",
+            "param_value": "facets=screen_size_laptop=10\"+-+12\"",
+            "count": 1550
+          },
+          {
+            "name": "11\" - 14\"",
+            "param_value": "facets=screen_size_laptop=11\"+-+14\"",
+            "count": 5154
+          },
+          {
+            "name": "15\" - 16\"",
+            "param_value": "facets=screen_size_laptop=15\"+-+16\"",
+            "count": 58230
+          },
+          {
+            "name": "16\" & Up",
+            "param_value": "facets=screen_size_laptop=16\"+&+Up",
+            "count": 24932
+          },
+          {
+            "name": "17\" & Larger",
+            "param_value": "facets=screen_size_laptop=17\"+&+Larger",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "name": "ram_memory_general",
+        "display_name": "RAM",
+        "values": [
+          {
+            "name": "12GB & Up",
+            "param_value": "facets=ram_memory_general=12GB+&+Up",
+            "count": 82395
+          },
+          {
+            "name": "8GB",
+            "param_value": "facets=ram_memory_general=8GB",
+            "count": 18013
+          },
+          {
+            "name": "6GB",
+            "param_value": "facets=ram_memory_general=6GB",
+            "count": 120
+          },
+          {
+            "name": "4GB",
+            "param_value": "facets=ram_memory_general=4GB",
+            "count": 5085
+          },
+          {
+            "name": "3GB & Under",
+            "param_value": "facets=ram_memory_general=3GB+&+Under",
+            "count": 2551
+          }
+        ]
+      },
+      {
+        "name": "operating_system",
+        "display_name": "Operating System",
+        "values": [
+          {
+            "name": "Windows 10",
+            "param_value": "facets=operating_system=Windows+10",
+            "count": 37488
+          },
+          {
+            "name": "Microsoft Windows",
+            "param_value": "facets=operating_system=Microsoft+Windows",
+            "count": 6708
+          },
+          {
+            "name": "Windows",
+            "param_value": "facets=operating_system=Windows",
+            "count": 6429
+          },
+          {
+            "name": "Microsoft Windows 10",
+            "param_value": "facets=operating_system=Microsoft+Windows+10",
+            "count": 305
+          },
+          {
+            "name": "Chrome OS",
+            "param_value": "facets=operating_system=Chrome+OS",
+            "count": 1307
+          },
+          {
+            "name": "Windows 7",
+            "param_value": "facets=operating_system=Windows+7",
+            "count": 289
+          },
+          {
+            "name": "Apple iOS",
+            "param_value": "facets=operating_system=Apple+iOS",
+            "count": 2144
+          },
+          {
+            "name": "Windows 10 Pro",
+            "param_value": "facets=operating_system=Windows+10+Pro",
+            "count": 23718
+          },
+          {
+            "name": "Windows 10 Home",
+            "param_value": "facets=operating_system=Windows+10+Home",
+            "count": 5781
+          },
+          {
+            "name": "Android",
+            "param_value": "facets=operating_system=Android",
+            "count": 415
+          },
+          {
+            "name": "Microsoft Windows 10 Professional",
+            "param_value": "facets=operating_system=Microsoft+Windows+10+Professional",
+            "count": 93
+          },
+          {
+            "name": "Microsoft Windows 11 Professional",
+            "param_value": "facets=operating_system=Microsoft+Windows+11+Professional",
+            "count": 82
+          },
+          {
+            "name": "Microsoft Windows 10 Home",
+            "param_value": "facets=operating_system=Microsoft+Windows+10+Home",
+            "count": 58
+          },
+          {
+            "name": "Microsoft Windows 11 Home",
+            "param_value": "facets=operating_system=Microsoft+Windows+11+Home",
+            "count": 43
+          },
+          {
+            "name": "Apple iOS 16",
+            "param_value": "facets=operating_system=Apple+iOS+16",
+            "count": 38
+          },
+          {
+            "name": "Windows 8",
+            "param_value": "facets=operating_system=Windows+8",
+            "count": 36
+          },
+          {
+            "name": "Microsoft Windows 10Professional",
+            "param_value": "facets=operating_system=Microsoft+Windows+10Professional",
+            "count": 31
+          },
+          {
+            "name": "Apple iOS,Apple iOS",
+            "param_value": "facets=operating_system=Apple+iOS,Apple+iOS",
+            "count": 18
+          },
+          {
+            "name": "Microsoft Windows 10 S",
+            "param_value": "facets=operating_system=Microsoft+Windows+10+S",
+            "count": 13
+          },
+          {
+            "name": "iPadOS 14",
+            "param_value": "facets=operating_system=iPadOS+14",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "name": "resolution",
+        "display_name": "Resolution",
+        "values": [
+          {
+            "name": "4K (2160P)",
+            "param_value": "facets=resolution=4K+(2160P)",
+            "count": 808
+          },
+          {
+            "name": "4K UHD",
+            "param_value": "facets=resolution=4K+UHD",
+            "count": 741
+          },
+          {
+            "name": "1080p",
+            "param_value": "facets=resolution=1080p",
+            "count": 43236
+          },
+          {
+            "name": "FHD (1080P)",
+            "param_value": "facets=resolution=FHD+(1080P)",
+            "count": 49457
+          },
+          {
+            "name": "720p",
+            "param_value": "facets=resolution=720p",
+            "count": 9970
+          },
+          {
+            "name": "(1920 x 1080) IPS LCD Screen",
+            "param_value": "facets=resolution=(1920+x+1080)+IPS+LCD+Screen",
+            "count": 1
+          },
+          {
+            "name": "(1920 x 1200",
+            "param_value": "facets=resolution=(1920+x+1200",
+            "count": 1
+          },
+          {
+            "name": "(Full HD 1920 x 1080)",
+            "param_value": "facets=resolution=(Full+HD+1920+x+1080)",
+            "count": 1
+          },
+          {
+            "name": "+128GB SD",
+            "param_value": "facets=resolution=+128GB+SD",
+            "count": 1
+          },
+          {
+            "name": "+64GB SD",
+            "param_value": "facets=resolution=+64GB+SD",
+            "count": 1
+          },
+          {
+            "name": "0.2 x 6.6 x 9.4 inches",
+            "param_value": "facets=resolution=0.2+x+6.6+x+9.4+inches",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "laptop_computer_type",
+        "display_name": "Laptop Computer Type",
+        "values": [
+          {
+            "name": "2-in-1s",
+            "param_value": "facets=laptop_computer_type=2-in-1s",
+            "count": 7459
+          },
+          {
+            "name": "Business",
+            "param_value": "facets=laptop_computer_type=Business",
+            "count": 37138
+          },
+          {
+            "name": "Chromebooks",
+            "param_value": "facets=laptop_computer_type=Chromebooks",
+            "count": 2179
+          },
+          {
+            "name": "Gaming Laptops",
+            "param_value": "facets=laptop_computer_type=Gaming+Laptops",
+            "count": 21948
+          },
+          {
+            "name": "MacBooks",
+            "param_value": "facets=laptop_computer_type=MacBooks",
+            "count": 2353
+          },
+          {
+            "name": "PC Laptops",
+            "param_value": "facets=laptop_computer_type=PC+Laptops",
+            "count": 12017
+          },
+          {
+            "name": "Touchscreen",
+            "param_value": "facets=laptop_computer_type=Touchscreen",
+            "count": 2281
+          },
+          {
+            "name": "Netbooks",
+            "param_value": "facets=laptop_computer_type=Netbooks",
+            "count": 58
+          },
+          {
+            "name": "Ultrabooks",
+            "param_value": "facets=laptop_computer_type=Ultrabooks",
+            "count": 830
+          }
+        ]
+      },
+      {
+        "name": "processor_brand",
+        "display_name": "Processor Brand",
+        "values": [
+          {
+            "name": "AMD",
+            "param_value": "facets=processor_brand=AMD",
+            "count": 24030
+          },
+          {
+            "name": "Intel",
+            "param_value": "facets=processor_brand=Intel",
+            "count": 103296
+          },
+          {
+            "name": "ARM",
+            "param_value": "facets=processor_brand=ARM",
+            "count": 55
+          },
+          {
+            "name": "Apple",
+            "param_value": "facets=processor_brand=Apple",
+            "count": 3029
+          },
+          {
+            "name": "NVIDIA",
+            "param_value": "facets=processor_brand=NVIDIA",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "name": "color",
+        "display_name": "Color",
+        "values": [
+          {
+            "name": "Black",
+            "param_value": "facets=color=Black",
+            "count": 45936
+          },
+          {
+            "name": "Red",
+            "param_value": "facets=color=Red",
+            "count": 488
+          },
+          {
+            "name": "Blue",
+            "param_value": "facets=color=Blue",
+            "count": 6042
+          },
+          {
+            "name": "Silver",
+            "param_value": "facets=color=Silver",
+            "count": 23413
+          },
+          {
+            "name": "Pink",
+            "param_value": "facets=color=Pink",
+            "count": 687
+          },
+          {
+            "name": "Purple",
+            "param_value": "facets=color=Purple",
+            "count": 385
+          },
+          {
+            "name": "Gold",
+            "param_value": "facets=color=Gold",
+            "count": 2097
+          },
+          {
+            "name": "White",
+            "param_value": "facets=color=White",
+            "count": 2522
+          },
+          {
+            "name": "Gray",
+            "param_value": "facets=color=Gray",
+            "count": 11886
+          },
+          {
+            "name": "Green",
+            "param_value": "facets=color=Green",
+            "count": 888
+          },
+          {
+            "name": "Beige",
+            "param_value": "facets=color=Beige",
+            "count": 280
+          },
+          {
+            "name": "Brown",
+            "param_value": "facets=color=Brown",
+            "count": 140
+          },
+          {
+            "name": "Multicolor",
+            "param_value": "facets=color=Multicolor",
+            "count": 327
+          },
+          {
+            "name": "Yellow",
+            "param_value": "facets=color=Yellow",
+            "count": 206
+          },
+          {
+            "name": "Orange",
+            "param_value": "facets=color=Orange",
+            "count": 179
+          },
+          {
+            "name": "Clear",
+            "param_value": "facets=color=Clear",
+            "count": 57
+          },
+          {
+            "name": "Off-White",
+            "param_value": "facets=color=Off-White",
+            "count": 4758
+          },
+          {
+            "name": "Other",
+            "param_value": "facets=color=Other",
+            "count": 3694
+          }
+        ]
+      },
+      {
+        "name": "condition",
+        "display_name": "Item Condition",
+        "values": [
+          {
+            "name": "New",
+            "param_value": "facets=condition=New",
+            "count": 4716
+          },
+          {
+            "name": "Restored",
+            "param_value": "facets=condition=Restored",
+            "count": 10704
+          },
+          {
+            "name": "Refurbished",
+            "param_value": "facets=condition=Refurbished",
+            "count": 16638
+          },
+          {
+            "name": "New With Defects",
+            "param_value": "facets=condition=New+With+Defects",
+            "count": 1
+          },
+          {
+            "name": "Remanufactured",
+            "param_value": "facets=condition=Remanufactured",
+            "count": 13
+          },
+          {
+            "name": "Restored Premium",
+            "param_value": "facets=condition=Restored+Premium",
+            "count": 13
+          }
+        ]
+      },
+      {
+        "name": "memory_capacity",
+        "display_name": "Memory Capacity",
+        "values": [
+          {
+            "name": "4 GB",
+            "param_value": "facets=memory_capacity=4+GB",
+            "count": 1874
+          },
+          {
+            "name": "8 GB",
+            "param_value": "facets=memory_capacity=8+GB",
+            "count": 2904
+          },
+          {
+            "name": "16 GB",
+            "param_value": "facets=memory_capacity=16+GB",
+            "count": 2182
+          },
+          {
+            "name": "32 GB",
+            "param_value": "facets=memory_capacity=32+GB",
+            "count": 957
+          },
+          {
+            "name": "64 GB",
+            "param_value": "facets=memory_capacity=64+GB",
+            "count": 751
+          },
+          {
+            "name": "128 GB",
+            "param_value": "facets=memory_capacity=128+GB",
+            "count": 655
+          },
+          {
+            "name": "256 GB",
+            "param_value": "facets=memory_capacity=256+GB",
+            "count": 586
+          },
+          {
+            "name": "500 GB",
+            "param_value": "facets=memory_capacity=500+GB",
+            "count": 308
+          },
+          {
+            "name": "1 GB",
+            "param_value": "facets=memory_capacity=1+GB",
+            "count": 11
+          },
+          {
+            "name": "2 GB",
+            "param_value": "facets=memory_capacity=2+GB",
+            "count": 157
+          },
+          {
+            "name": "10 GB",
+            "param_value": "facets=memory_capacity=10+GB",
+            "count": 1
+          },
+          {
+            "name": "12 GB",
+            "param_value": "facets=memory_capacity=12+GB",
+            "count": 95
+          },
+          {
+            "name": "120 GB",
+            "param_value": "facets=memory_capacity=120+GB",
+            "count": 84
+          },
+          {
+            "name": "128GB",
+            "param_value": "facets=memory_capacity=128GB",
+            "count": 10
+          },
+          {
+            "name": "128GB Storage",
+            "param_value": "facets=memory_capacity=128GB+Storage",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "native_resolution",
+        "display_name": "Native Resolution",
+        "values": [
+          {
+            "name": "1024 x 600",
+            "param_value": "facets=native_resolution=1024+x+600",
+            "count": 5
+          },
+          {
+            "name": "1024 x 768",
+            "param_value": "facets=native_resolution=1024+x+768",
+            "count": 28
+          },
+          {
+            "name": "1280 x 800",
+            "param_value": "facets=native_resolution=1280+x+800",
+            "count": 190
+          },
+          {
+            "name": "1366 x 768",
+            "param_value": "facets=native_resolution=1366+x+768",
+            "count": 5984
+          },
+          {
+            "name": "1440 x 900",
+            "param_value": "facets=native_resolution=1440+x+900",
+            "count": 435
+          },
+          {
+            "name": "1600 x 900",
+            "param_value": "facets=native_resolution=1600+x+900",
+            "count": 986
+          },
+          {
+            "name": "1920 x 1080",
+            "param_value": "facets=native_resolution=1920+x+1080",
+            "count": 25761
+          },
+          {
+            "name": "1920 x 1200",
+            "param_value": "facets=native_resolution=1920+x+1200",
+            "count": 1490
+          },
+          {
+            "name": "2560 x 1440",
+            "param_value": "facets=native_resolution=2560+x+1440",
+            "count": 385
+          },
+          {
+            "name": "2560 x 1600",
+            "param_value": "facets=native_resolution=2560+x+1600",
+            "count": 1176
+          },
+          {
+            "name": "2880 x 1620",
+            "param_value": "facets=native_resolution=2880+x+1620",
+            "count": 5
+          },
+          {
+            "name": "2880 x 1800",
+            "param_value": "facets=native_resolution=2880+x+1800",
+            "count": 457
+          },
+          {
+            "name": "3000 x 2000",
+            "param_value": "facets=native_resolution=3000+x+2000",
+            "count": 49
+          },
+          {
+            "name": "3200 x 1800",
+            "param_value": "facets=native_resolution=3200+x+1800",
+            "count": 53
+          },
+          {
+            "name": "3840 x 2160",
+            "param_value": "facets=native_resolution=3840+x+2160",
+            "count": 488
+          }
+        ]
+      },
+      {
+        "name": "special_offers",
+        "display_name": "Special Offers",
+        "values": [
+          {
+            "name": "Reduced Price",
+            "param_value": "facets=special_offers=Reduced+Price",
+            "count": 1081
+          },
+          {
+            "name": "Clearance",
+            "param_value": "facets=special_offers=Clearance",
+            "count": 706
+          },
+          {
+            "name": "Rollback",
+            "param_value": "facets=special_offers=Rollback",
+            "count": 11
+          }
+        ]
+      },
+      {
+        "name": "customer_rating",
+        "display_name": "Customer Rating",
+        "values": [
+          {
+            "name": "4 - 5 Stars",
+            "param_value": "facets=customer_rating=4+-+5+Stars",
+            "count": 4567
+          },
+          {
+            "name": "3 - 3.9 Stars",
+            "param_value": "facets=customer_rating=3+-+3.9+Stars",
+            "count": 6418
+          },
+          {
+            "name": "2 - 2.9 Stars",
+            "param_value": "facets=customer_rating=2+-+2.9+Stars",
+            "count": 7234
+          },
+          {
+            "name": "1 - 1.9 Stars",
+            "param_value": "facets=customer_rating=1+-+1.9+Stars",
+            "count": 8104
+          }
+        ]
+      },
+      {
+        "name": "retailer_type",
+        "display_name": "Retailer",
+        "values": [
+          {
+            "name": "Walmart",
+            "param_value": "facets=retailer_type=Walmart",
+            "count": 2757
+          },
+          {
+            "name": "Pro Sellers",
+            "param_value": "facets=retailer_type=Pro+Sellers",
+            "count": 14848
+          },
+          {
+            "name": "Marketplace Sellers fulfilled by Walmart",
+            "param_value": "facets=retailer_type=Marketplace+Sellers+fulfilled+by+Walmart",
+            "count": 885
+          }
+        ]
+      },
+      {
+        "name": "Gifting",
+        "display_name": "Gifting",
+        "values": [
+          {
+            "name": "Gift eligible",
+            "param_value": "facets=Gifting=Gift+eligible",
+            "count": 117
+          }
+        ]
+      }
+    ],
+    "category_info": {
+      "is_landing_page": false
+    },
+    "pagination": {
+      "current": {
+        "page": 1,
+        "link": "https://www.walmart.com/search?q=laptop"
+      },
+      "next": {
+        "page": 2,
+        "link": "https://www.walmart.com/search?q=laptop&page=2"
+      },
+      "total_pages": 25,
+      "other_pages": [
+        {
+          "page": 1,
+          "link": "https://www.walmart.com/search?q=laptop&page=1"
+        },
+        {
+          "page": 2,
+          "link": "https://www.walmart.com/search?q=laptop&page=2"
+        },
+        {
+          "page": 3,
+          "link": "https://www.walmart.com/search?q=laptop&page=3"
+        },
+        {
+          "page": 4,
+          "link": "https://www.walmart.com/search?q=laptop&page=4"
+        },
+        {
+          "page": 5,
+          "link": "https://www.walmart.com/search?q=laptop&page=5"
+        },
+        {
+          "page": 6,
+          "link": "https://www.walmart.com/search?q=laptop&page=6"
+        },
+        {
+          "page": 7,
+          "link": "https://www.walmart.com/search?q=laptop&page=7"
+        },
+        {
+          "page": 8,
+          "link": "https://www.walmart.com/search?q=laptop&page=8"
+        },
+        {
+          "page": 9,
+          "link": "https://www.walmart.com/search?q=laptop&page=9"
+        },
+        {
+          "page": 10,
+          "link": "https://www.walmart.com/search?q=laptop&page=10"
+        },
+        {
+          "page": 11,
+          "link": "https://www.walmart.com/search?q=laptop&page=11"
+        },
+        {
+          "page": 12,
+          "link": "https://www.walmart.com/search?q=laptop&page=12"
+        },
+        {
+          "page": 13,
+          "link": "https://www.walmart.com/search?q=laptop&page=13"
+        },
+        {
+          "page": 14,
+          "link": "https://www.walmart.com/search?q=laptop&page=14"
+        },
+        {
+          "page": 15,
+          "link": "https://www.walmart.com/search?q=laptop&page=15"
+        },
+        {
+          "page": 16,
+          "link": "https://www.walmart.com/search?q=laptop&page=16"
+        },
+        {
+          "page": 17,
+          "link": "https://www.walmart.com/search?q=laptop&page=17"
+        },
+        {
+          "page": 18,
+          "link": "https://www.walmart.com/search?q=laptop&page=18"
+        },
+        {
+          "page": 19,
+          "link": "https://www.walmart.com/search?q=laptop&page=19"
+        },
+        {
+          "page": 20,
+          "link": "https://www.walmart.com/search?q=laptop&page=20"
+        },
+        {
+          "page": 21,
+          "link": "https://www.walmart.com/search?q=laptop&page=21"
+        },
+        {
+          "page": 22,
+          "link": "https://www.walmart.com/search?q=laptop&page=22"
+        },
+        {
+          "page": 23,
+          "link": "https://www.walmart.com/search?q=laptop&page=23"
+        },
+        {
+          "page": 24,
+          "link": "https://www.walmart.com/search?q=laptop&page=24"
+        },
+        {
+          "page": 25,
+          "link": "https://www.walmart.com/search?q=laptop&page=25"
+        }
+      ],
+      "total_results": 197193
+    },
+    "location_info": {
+      "city": "Bentonville",
+      "state": "AR",
+      "zipcode": "72712",
+      "store_id": "3164"
+    }
+  }
+  

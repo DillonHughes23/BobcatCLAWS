@@ -1,0 +1,171 @@
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+- Generating index html...
+2 rules skipped due to selector errors:
+  .form-floating>~label -> Did not expect successive traversals.
+  .form-floating>~label -> Did not expect successive traversals.
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.14a87bd2623c87f4.js      | main          | 772.96 kB |               156.20 kB
+styles.0e0a9d5134d998ad.css   | styles        | 301.76 kB |                29.62 kB
+polyfills.e128fe10d7721747.js | polyfills     |  33.05 kB |                10.63 kB
+runtime.ff483ab396d740d0.js   | runtime       |   1.57 kB |               807 bytes
+
+| Initial Total |   1.08 MB |               197.24 kB
+
+Build at: 2023-11-01T20:00:10.088Z - Hash: db3170e67cd1ff66 - Time: 6265ms
+
+Warning: bundle initial exceeded maximum budget. Budget NaN undefined was not met by NaN undefined with a total of 1.08 MB.
+
+
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [all](ids: [ 0 ])
+[PM2] [BobcatClaws](0) ✓
+┌────┬────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name           │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ BobcatClaws    │ default     │ 0.0.0   │ fork    │ 143077   │ 0s     │ 7    │ online    │ 0%       │ 18.8mb   │ root     │ disabled │
+└────┴────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+- Generating index html...
+2 rules skipped due to selector errors:
+  .form-floating>~label -> Did not expect successive traversals.
+  .form-floating>~label -> Did not expect successive traversals.
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.14a87bd2623c87f4.js      | main          | 772.96 kB |               156.20 kB
+styles.0e0a9d5134d998ad.css   | styles        | 301.76 kB |                29.62 kB
+polyfills.e128fe10d7721747.js | polyfills     |  33.05 kB |                10.63 kB
+runtime.ff483ab396d740d0.js   | runtime       |   1.57 kB |               807 bytes
+
+| Initial Total |   1.08 MB |               197.24 kB
+
+Build at: 2023-11-02T20:00:10.111Z - Hash: db3170e67cd1ff66 - Time: 6563ms
+
+Warning: bundle initial exceeded maximum budget. Budget NaN undefined was not met by NaN undefined with a total of 1.08 MB.
+
+
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [all](ids: [ 0 ])
+[PM2] [BobcatClaws](0) ✓
+┌────┬────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name           │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ BobcatClaws    │ default     │ 0.0.0   │ fork    │ 146278   │ 0s     │ 8    │ online    │ 0%       │ 30.7mb   │ root     │ disabled │
+└────┴────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+- Generating index html...
+2 rules skipped due to selector errors:
+  .form-floating>~label -> Did not expect successive traversals.
+  .form-floating>~label -> Did not expect successive traversals.
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.a94f25a69507d12e.js      | main          | 574.56 kB |               129.28 kB
+styles.0e0a9d5134d998ad.css   | styles        | 301.76 kB |                29.62 kB
+polyfills.e128fe10d7721747.js | polyfills     |  33.05 kB |                10.63 kB
+runtime.9674a9f3349472da.js   | runtime       | 916 bytes |               521 bytes
+
+| Initial Total | 910.25 kB |               170.04 kB
+
+Build at: 2023-11-28T21:00:11.362Z - Hash: 4460a34c9a234ce5 - Time: 7036ms
+
+Warning: bundle initial exceeded maximum budget. Budget 500.00 kB was not met by 410.25 kB with a total of 910.25 kB.
+
+
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [all](ids: [ 0, 1 ])
+[PM2] [BobcatClaws](0) ✓
+[PM2] [BobcatClawsDB](1) ✓
+┌────┬──────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name             │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ BobcatClaws      │ default     │ 0.0.0   │ fork    │ 21152    │ 0s     │ 7    │ online    │ 0%       │ 52.0mb   │ root     │ disabled │
+│ 1  │ BobcatClawsDB    │ default     │ 0.0.0   │ fork    │ 21166    │ 0s     │ 7    │ online    │ 0%       │ 22.4mb   │ root     │ disabled │
+└────┴──────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+- Generating index html...
+2 rules skipped due to selector errors:
+  .form-floating>~label -> Did not expect successive traversals.
+  .form-floating>~label -> Did not expect successive traversals.
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.a94f25a69507d12e.js      | main          | 574.56 kB |               129.28 kB
+styles.0e0a9d5134d998ad.css   | styles        | 301.76 kB |                29.62 kB
+polyfills.e128fe10d7721747.js | polyfills     |  33.05 kB |                10.63 kB
+runtime.9674a9f3349472da.js   | runtime       | 916 bytes |               521 bytes
+
+| Initial Total | 910.25 kB |               170.04 kB
+
+Build at: 2023-11-29T21:00:09.228Z - Hash: 4460a34c9a234ce5 - Time: 5813ms
+
+Warning: bundle initial exceeded maximum budget. Budget 500.00 kB was not met by 410.25 kB with a total of 910.25 kB.
+
+
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [all](ids: [ 0, 1 ])
+[PM2] [BobcatClaws](0) ✓
+[PM2] [BobcatClawsDB](1) ✓
+┌────┬──────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name             │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ BobcatClaws      │ default     │ 0.0.0   │ fork    │ 31041    │ 0s     │ 8    │ online    │ 0%       │ 54.9mb   │ root     │ disabled │
+│ 1  │ BobcatClawsDB    │ default     │ 0.0.0   │ fork    │ 31054    │ 0s     │ 8    │ online    │ 0%       │ 24.6mb   │ root     │ disabled │
+└────┴──────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+- Generating index html...
+2 rules skipped due to selector errors:
+  .form-floating>~label -> Did not expect successive traversals.
+  .form-floating>~label -> Did not expect successive traversals.
+✔ Index html generation complete.
+
+Initial Chunk Files           | Names         |  Raw Size | Estimated Transfer Size
+main.a94f25a69507d12e.js      | main          | 574.56 kB |               129.28 kB
+styles.0e0a9d5134d998ad.css   | styles        | 301.76 kB |                29.62 kB
+polyfills.e128fe10d7721747.js | polyfills     |  33.05 kB |                10.63 kB
+runtime.9674a9f3349472da.js   | runtime       | 916 bytes |               521 bytes
+
+| Initial Total | 910.25 kB |               170.04 kB
+
+Build at: 2023-11-30T21:00:09.512Z - Hash: 4460a34c9a234ce5 - Time: 6000ms
+
+Warning: bundle initial exceeded maximum budget. Budget 500.00 kB was not met by 410.25 kB with a total of 910.25 kB.
+
+
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [all](ids: [ 0, 1 ])
+[PM2] [BobcatClaws](0) ✓
+[PM2] [BobcatClawsDB](1) ✓
+┌────┬──────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name             │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ BobcatClaws      │ default     │ 0.0.0   │ fork    │ 37195    │ 0s     │ 9    │ online    │ 0%       │ 59.0mb   │ root     │ disabled │
+│ 1  │ BobcatClawsDB    │ default     │ 0.0.0   │ fork    │ 37215    │ 0s     │ 9    │ online    │ 0%       │ 24.7mb   │ root     │ disabled │
+└────┴──────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘

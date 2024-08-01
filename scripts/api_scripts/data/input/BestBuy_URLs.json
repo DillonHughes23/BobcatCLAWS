@@ -1,0 +1,49 @@
+{
+    "Products":
+    [        
+        {
+            "Product_Name" : "Flash Drives",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0504010&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0504010&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Head Phones",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat144700050004&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat144700050004&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Microphones",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0515041&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0515041&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Coffee Makers",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0912005&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0912005&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Refridgerators",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat367400050001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat367400050001&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Calculators",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0805001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0805001&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Desktops",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat143400050013&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat143400050013&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Laptops",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat138500050001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat138500050001&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Phones",
+            "Product_URL" :"https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1625163553254&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=pcmcat1625163553254_categoryid%24abcat0800000&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Tablets",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat209000050008&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat209000050008&type=page&usc=All%20Categories"
+        },
+        {
+            "Product_Name" : "Televisions",
+            "Product_URL" : "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
+        }
+    ]
+}

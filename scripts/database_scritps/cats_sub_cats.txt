@@ -1,0 +1,33 @@
+Accesories
++----+--------------------+--------------------+----------+-------------+
+| ID | Name               | Description        | count | Category_ID | 
++----+--------------------+--------------------+----------+-------------+
+|  1 | Bedding and Linens | Bedding and linens | NULL     | 1           |
+|  2 | Desk Supplies      | Desk Supplies      | NULL     | 1           |
+|  3 | Room Decor         | Room Decor         | NULL     | 1           |
+|  4 | Storage Solutions  | Storage Solutions  | NULL     | 1           |
+|  5 | Kitchen and Dining | Kitchen and Dining | NULL     | 1           |
++----+--------------------+--------------------+----------+-------------+
+
+Electronics
++----+-----------------------------+-----------------------------+----------+-------------+
+| ID | Name                        | Description                 | Keywords | Category_ID |
++----+-----------------------------+-----------------------------+----------+-------------+
+|  6 | Laptops and Accessories     | Laptops and Accessories     | NULL     | 2           |
+|  7 | Audio and Headphones        | Audio and Headphones        | NULL     | 2           |
+|  8 | Gaming and Entertainment    | Gaming and Entertainment    | NULL     | 2           |
+|  9 | Smart Home Devices          | Smart Home Devices          | NULL     | 2           |
+| 10 | Cables and Adaptors         | Cables and Adaptors         | NULL     | 2           |
+| 16 | Cell Phones and Accessories | Cell Phones and Accessories | NULL     | 2           |
++----+-----------------------------+-----------------------------+----------+-------------+
+
+Appliances
++----+--------------------------------+--------------------------------+----------+-------------+
+| ID | Name                           | Description                    | Keywords | Category_ID |
++----+--------------------------------+--------------------------------+----------+-------------+
+| 11 | Mini Fridge                    | Mini Fridge                    | NULL     | 3           |
+| 12 | Microwaves and Cooking Devices | Microwaves and Cooking Devices | NULL     | 3           |
+| 13 | Coffee and Tea Makers          | Coffee and Tea Makers          | NULL     | 3           |
+| 14 | Laundry and Cleaning           | Laundry and Cleaning           | NULL     | 3           |
+| 15 | Heating and Cooling            | Heating and Cooling            | NULL     | 3           |
++----+--------------------------------+--------------------------------+----------+-------------+

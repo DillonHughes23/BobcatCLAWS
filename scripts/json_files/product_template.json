@@ -1,0 +1,19 @@
+{
+    "Store": "Name",
+    {
+        "Products": [
+		    {
+			"URLS": ["url1" "url2", "etc"],
+            		"UPC": "value if exists",
+            		"Name": "product name",
+	    		"Prices": ["price1", "price2", "etc"],
+            		"Category": "category name",
+            		"Sub_Category": "sub-category name",
+            		"Description": "product description",
+            		"Keywords": ["keyword1", "keyword2", "etc."],
+            		"Img_URL": "URL to the product image",
+		    }
+        ]
+    }
+}
+
