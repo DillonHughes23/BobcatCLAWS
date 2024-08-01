@@ -1,0 +1,19 @@
+/* Style for the buttons within the price filter component */
+button {
+    background-color: #501214; /* Maroon background for the buttons */
+    color: #AC9155; /* Gold color for the text */
+    border: 1px solid #AC9155; /* Gold border for the buttons */
+    padding: 10px 15px; /* Padding inside the button */
+    margin: 5px 0; /* Margin around the buttons */
+    border-radius: 5px; /* Rounded corners for the buttons */
+    cursor: pointer; /* Changes the cursor to a pointer on hover */
+    font-weight: bold; /* Makes the text bold */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+  /* Style for the buttons when hovered over */
+  button:hover {
+    background-color: #AC9155; /* Changes background to gold on hover */
+    color: #501214; /* Changes text color to maroon on hover */
+  }
+  

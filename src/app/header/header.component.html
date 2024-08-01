@@ -1,0 +1,90 @@
+<mat-toolbar>
+  <mat-toolbar-row class="header">
+    <button class="Title" routerLink="/home">
+      <img src="app/assets/claws.png" alt="Bobcat Claws Logo" class="logoImage">
+    </button>
+   
+    <span class="spacer"></span>
+    <app-search-bar></app-search-bar>
+  </mat-toolbar-row>
+  <mat-toolbar-row class="items">
+    <button mat-icon-button class="icon" aria-label="Example icon-button with menu icon" [matMenuTriggerFor]="allMenu">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <mat-menu #allMenu="matMenu">
+      <!-- Replace 'routerLink' with a dynamic binding '[routerLink]' -->
+      <h2>Accessories</h2>
+      <button mat-menu-item [routerLink]="['/categories', 1]">Bedding and Linens</button>
+      <button mat-menu-item [routerLink]="['/categories', 2]">Desk Supplies</button>
+      <button mat-menu-item [routerLink]="['/categories', 3]">Room Decor</button>
+      <button mat-menu-item [routerLink]="['/categories', 4]">Storage Solutions</button>
+      <button mat-menu-item [routerLink]="['/categories', 5]">Kitchen and Dining</button>
+      <!-- ... Add more items for Accessories subcategories ... -->
+      <h2>Electronics</h2>
+      <button mat-menu-item [routerLink]="['/categories', 6]">Laptops and Accessories</button>
+      <button mat-menu-item [routerLink]="['/categories', 7]">Audio and Headphones</button>
+      <button mat-menu-item [routerLink]="['/categories', 8]">Gaming and Entertainment</button>
+      <button mat-menu-item [routerLink]="['/categories', 9]">Smart Home Devices</button>
+      <button mat-menu-item [routerLink]="['/categories', 10]">Cables and Adaptors</button>
+      <h2>Appliances</h2>
+      <button mat-menu-item [routerLink]="['/categories', 11]">Mini Fridge</button>
+      <button mat-menu-item [routerLink]="['/categories', 12]">Microwaves and Cooking Devices</button>
+      <button mat-menu-item [routerLink]="['/categories', 13]">Coffee and Tea Makers</button>
+      <button mat-menu-item [routerLink]="['/categories', 14]">Laundry and Cleaning</button>
+      <button mat-menu-item [routerLink]="['/categories', 15]">Heating and Cooling</button>
+      <button mat-menu-item [routerLink]="['/categories', 16]">Cell Phones and Accessories</button>
+
+
+    </mat-menu>
+    <span class="all">All</span>
+    <span class="spacer"></span>
+
+    <!-- Accessories Menu Dropdown Categories -->
+    <button mat-button [matMenuTriggerFor]="accessoriesMenu">
+      Accessories <mat-icon>arrow_drop_down</mat-icon>
+    </button>
+    <mat-menu #accessoriesMenu="matMenu">
+      <!-- Replace 'routerLink' with a dynamic binding '[routerLink]' -->
+      <button mat-menu-item [routerLink]="['/categories', 1]">Bedding and Linens</button>
+      <button mat-menu-item [routerLink]="['/categories', 2]">Desk Supplies</button>
+      <button mat-menu-item [routerLink]="['/categories', 3]">Room Decor</button>
+      <button mat-menu-item [routerLink]="['/categories', 4]">Storage Solutions</button>
+      <button mat-menu-item [routerLink]="['/categories', 5]">Kitchen and Dining</button>
+      <!-- ... Add more items for Accessories subcategories ... -->
+    </mat-menu>
+
+    <!-- Electronics Menu Dropdown Categories -->
+    <button mat-button [matMenuTriggerFor]="electronicsMenu">
+      Electronics <mat-icon>arrow_drop_down</mat-icon>
+    </button>
+    <mat-menu #electronicsMenu="matMenu">
+      <button mat-menu-item [routerLink]="['/categories', 6]">Laptops and Accessories</button>
+      <button mat-menu-item [routerLink]="['/categories', 7]">Audio and Headphones</button>
+      <button mat-menu-item [routerLink]="['/categories', 8]">Gaming and Entertainment</button>
+      <button mat-menu-item [routerLink]="['/categories', 9]">Smart Home Devices</button>
+      <button mat-menu-item [routerLink]="['/categories', 10]">Cables and Adaptors</button>
+
+      <!-- ... Add more items for Electronics subcategories ... -->
+    </mat-menu>
+
+    <!-- Appliances Menu Dropdown Categories -->
+    <button mat-button [matMenuTriggerFor]="appliancesMenu">
+      Appliances <mat-icon>arrow_drop_down</mat-icon>
+    </button>
+    <mat-menu #appliancesMenu="matMenu">
+      <button mat-menu-item [routerLink]="['/categories', 11]">Mini Fridge</button>
+      <button mat-menu-item [routerLink]="['/categories', 12]">Microwaves and Cooking Devices</button>
+      <button mat-menu-item [routerLink]="['/categories', 13]">Coffee and Tea Makers</button>
+      <button mat-menu-item [routerLink]="['/categories', 14]">Laundry and Cleaning</button>
+      <button mat-menu-item [routerLink]="['/categories', 15]">Heating and Cooling</button>
+      <button mat-menu-item [routerLink]="['/categories', 16]">Cell Phones and Accessories</button>
+
+
+      <!-- ... Add more items for Appliances subcategories ... -->
+    </mat-menu>
+    <span class="spacer"></span>
+    <button mat-button routerLink="/about-us">About Us</button>
+
+  </mat-toolbar-row>
+</mat-toolbar>
+

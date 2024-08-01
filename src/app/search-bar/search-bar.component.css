@@ -1,0 +1,59 @@
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #f3f4f6;
+  padding: 2px 15px;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  margin-right: auto; /* Added this line */
+  margin-left: 50; /* Adjust as needed */
+  border-radius: 100px;
+}
+
+.search-field {
+  flex-grow: 1;
+  width: 100%;
+}
+
+::ng-deep .mat-form-field-appearance-fill .mat-form-field-wrapper {
+  padding-bottom: 0 !important;
+}
+
+::ng-deep .mat-form-field-appearance-fill .mat-form-field-flex {
+  border-radius: 30px; /* Adjusted border radius */
+  height: 5px; /* Adjusted height */
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+ .mat-form-field-appearance-fill .mat-form-field-infix {
+  border: none;
+  padding: 0 12px;
+}
+
+.mat-form-field.mat-form-field-appearance-fill .mat-form-field-underline {
+  display: none; /* Hide the underline initially */
+}
+
+.mat-form-field.mat-form-field-appearance-fill.focused .mat-form-field-underline {
+  display: block; /* Display the underline when focused */
+  /* Add other styles as needed */
+}
+
+mat-icon-button {
+  color: #5a5a5a;
+  background-color: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.purple-button {
+  background-color: #AC9155; /* Purple */
+  color: #ffffff; /* White */
+}
+
+/* To ensure the white color is applied to the icon as well */
+.purple-button .mat-icon {
+  color: inherit;
+}

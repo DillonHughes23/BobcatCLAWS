@@ -1,0 +1,114 @@
+.header{
+    background-color: #AC9155;
+    color: white;
+}
+.items{
+    background-color: #501214;
+    color:white;
+    border-style:double;
+    border-color: black;
+}
+.icon{
+    background-color: #501214;
+    border-style: none;
+    color: white;
+}
+.submit{
+   
+
+}
+.labelHeader{
+    padding-left: 5px;
+    font-size: medium;
+}
+.spacer{
+    flex: .5 1 auto;
+}
+
+.space{
+    
+    margin: 200px;
+}
+.Products{
+  padding-left: 650px;
+  border-style: double;
+ 
+}
+
+.data{
+    text-align: left;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.outline:hover{
+    border-style: double;
+    border-color: blue;
+}
+.image{
+    width: 200px;
+    margin-right: 400px;
+    margin-left: 400px;
+    height: 200px;
+}
+.laptop{
+    border-style: none;
+    background-color: white ;
+    margin-left: 150px;
+    font-size: x-large;
+    text-align: center;
+   
+}
+.laptop:hover{
+    border-style: double;
+    border-color: black;
+}
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  .horizontal-mat-list-item {
+    float: right;
+    display: list-item;
+   
+
+    }
+    mat-list-option:nth-child(n){
+        background-color: red;
+        height: 300px;
+        border: 1px solid yellow;
+      }
+      .Title{
+        background-color: #AC9155;
+        border-style: none;
+        color: white;
+    }
+   
+    .Title:hover{
+        border-color: #501214;
+        border-style: solid;
+        border-radius: 10px;
+    }
+    .logoImage {
+        height: 150px; 
+        width: 200px;
+        /* Add any additional styling you need here */
+      }

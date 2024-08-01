@@ -1,0 +1,25 @@
+<app-header></app-header>
+
+<div class="space"></div>
+<div class="space"></div>
+
+<!-- Container for the products and the price filter -->
+<div class="container">
+
+  <!-- Price Filter Component -->
+  <app-price-filter (sortChange)="onSortChange($event)"></app-price-filter>
+
+
+  <!-- Iterate over the products array and display each product -->
+  <div *ngFor="let product of products; let i = index" class="product-box">
+    <div class="outline">
+      <h3>
+        <a class="product_name" (click)="onProductClick(i)">{{ product.Product_Name }}</a>
+      </h3>
+      <p class="description">{{ product.Description }}</p>
+      <img *ngIf="product.Img_URL" class="image" [src]="product.Img_URL" alt="{{ product.Product_Name }}">
+      <p class="price">Price: {{ product.Product_Price | currency }}</p>
+    </div>
+  </div>
+
+</div>

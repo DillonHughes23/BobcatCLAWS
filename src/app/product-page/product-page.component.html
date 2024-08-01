@@ -1,0 +1,27 @@
+<app-header></app-header>
+
+<div class="container">
+  <!-- Display the selected product -->
+  <div *ngIf="selectedProduct" class="product-details selected-product">
+    <h2 class="section-title">You clicked on this product:</h2>
+    <div class="product">
+      <h3>{{ selectedProduct.Product_Name }}</h3>
+      <p class="description">{{ selectedProduct.Description }}</p>
+      <img *ngIf="selectedProduct.Img_URL" [src]="selectedProduct.Img_URL" alt="{{ selectedProduct.Product_Name }}">
+      <p class="price">Price: {{ selectedProduct.Product_Price | currency }}</p>
+      <a class="link" [href]="selectedProduct.URL" target="_blank">Buy this product</a>
+    </div>
+  </div>
+  
+  <!-- Display the rest of the products -->
+  <div *ngIf="otherProducts.length > 0" class="other-products">
+    <h2 class="section-title">Here are the rest of the products:</h2>
+    <div *ngFor="let product of otherProducts" class="product" (click)="onProductSelect(product)">
+      <h3>{{ product.Product_Name }}</h3>
+      <p>{{ product.Description }}</p>
+      <img *ngIf="product.Img_URL" [src]="product.Img_URL" alt="{{ product.Product_Name }}">
+      <p class="price">Price: {{ product.Product_Price | currency }}</p>
+      <a class="link"[href]="product.URL" target="_blank">Buy this product</a>
+    </div>
+  </div>
+</div>

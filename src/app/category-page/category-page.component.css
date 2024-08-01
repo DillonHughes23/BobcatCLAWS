@@ -1,0 +1,65 @@
+/* category-page.component.css */
+.product-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-block-end: 15px;
+    border-radius: 4px;
+  }
+  
+  .product-card img {
+    max-inline-size: 100%;
+    block-size: auto;
+    display: block;
+  }
+  .product_name{
+    color:#501214;
+  }
+  .product_name:hover{
+   color: purple;
+  }
+  .description{
+    color: grey;
+  }
+  .price{
+    font-weight: bold;
+    font-size: x-large;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+     margin-left: 300px ;
+    
+  }
+  .product-box {
+    display: inline-block; /* Ensure each product is displayed in its own box */
+    margin: 10px; /* Add margin between product boxes */
+  }
+  
+  .outline {
+    border: 1px solid #AC9155; /* Add a border to each product box */
+    padding: 10px; /* Add padding inside the product box */
+    width: 650px;
+    /* Add other styles as needed */
+  }
+
+
+  .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-start: start; 
+  }
+  
+  .product-container {
+    flex-grow: 1; /* Takes up the available space */
+    /* Add any additional styling for the product layout */
+  }
+  
+  app-price-filter {
+    position: absolute; /* Absolutely position the price filter */
+    top: 50; /* Align to the top of the product container */
+    right: 0; /* Align to the right of the product container */
+  }
+  
+  
+
+
